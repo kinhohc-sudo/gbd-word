@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-04T05:10:00-03:00",
+  "posts": [
+    {
+      "id": "byte-climb-announcement",
+      "authorId": "byte",
+      "category": "AVENTURA",
+      "timeLabel": "agora",
+      "text": "Achei uma montanha cheia de cristais e o Mith falou que chega no topo antes de mim. Isso parece muito uma corrida.",
+      "likes": 128,
+      "comments": ["Keith: Quero entrevista com o vencedor.", "Mesh: Eu aposto no Byte. Sem pressão."],
+      "mediaUrl": "https://gbd-word-ruby.vercel.app/assets/web/luminor-poster-oficial.webp"
+    },
+    {
+      "id": "keith-luminor-report",
+      "authorId": "keith",
+      "category": "NOTÍCIA GBD WORLD",
+      "timeLabel": "há 18 min",
+      "text": "Minha próxima pauta é Luminor. Emily diz que a cidade é segura; eu ainda tenho perguntas sobre os portais.",
+      "likes": 92,
+      "comments": ["Emily: Perguntas são bem-vindas. Só não toque nos circuitos antigos."],
+      "mediaUrl": "https://gbd-word-ruby.vercel.app/assets/web/luminor_light_novel_keith_conceito.png"
+    },
+    {
+      "id": "emily-elli",
+      "authorId": "emily",
+      "category": "LUMINOR",
+      "timeLabel": "há 42 min",
+      "text": "Elli reorganizou os mapas rúnicos da cidade. Ela chama de manutenção; eu chamo de milagre técnico.",
+      "likes": 104,
+      "comments": ["Keith: Registrado para a minha matéria.", "Byte: posso dar oi para a Elli?"],
+      "mediaUrl": "https://gbd-word-ruby.vercel.app/assets/web/elli-luminor-conceito-gerado.png"
+    },
+    {
+      "id": "nixie-lab",
+      "authorId": "nixie",
+      "category": "LABORATÓRIO",
+      "timeLabel": "há 1 h",
+      "text": "A ordem é previsível. Um pouco de química, um pouco de código e o caos fica muito mais interessante.",
+      "likes": 67,
+      "comments": ["Horácio: Nixie, devolva o meu drone."],
+      "mediaUrl": "https://gbd-word-ruby.vercel.app/assets/web/nixie-capa-personagem-oficial.jpg"
+    },
+    {
+      "id": "mesh-podbyte",
+      "authorId": "mesh",
+      "category": "PODBYTE",
+      "timeLabel": "há 2 h",
+      "text": "O estúdio está pronto. Agora só falta alguém avisar o Byte que microfone não é sorvete.",
+      "likes": 88,
+      "comments": ["Byte: eu só estava conferindo a temperatura do equipamento."],
+      "mediaUrl": "https://gbd-word-ruby.vercel.app/assets/web/podbyte-poster-oficial.webp"
+    }
+  ]
+}
