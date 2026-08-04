@@ -52,6 +52,7 @@ img{display:block}
 .status-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 7px var(--green);margin-right:5px}
 .slogan-card{width:100%;border:1px solid #1b79c1;border-radius:10px;background:linear-gradient(135deg,#06182e,#0b3156);padding:10px;display:flex;align-items:center;gap:9px;justify-content:center;cursor:pointer}
 .slogan-card img{width:36px;height:36px;border-radius:8px}.slogan-card b{font-size:11px}
+.open-byte-app{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:10px;padding:10px 11px;border:1px solid #2ca5e8;border-radius:9px;background:linear-gradient(135deg,#28cdf0,#1876df);color:#021126;font-size:11px;font-weight:900;text-decoration:none;box-shadow:0 8px 20px #057cd842}.open-byte-app:hover{filter:brightness(1.08)}.open-byte-app span{font-size:16px}.open-byte-app__note{display:block;margin:7px 2px 0;color:#7e9cb7;font-size:9px;line-height:1.4}
 .entity-list{display:grid}.entity{display:grid;grid-template-columns:42px 1fr 8px;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid #28577d44;cursor:pointer}
 .entity img{width:42px;height:42px;border-radius:50%;object-fit:cover;background:#ccc}
 .entity b,.entity small{display:block}.entity b{font-size:11px}.entity small{font-size:9px;color:#7f97ae}.entity i{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 8px var(--green)}

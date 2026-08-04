@@ -222,6 +222,9 @@ $("#searchButton").onclick=()=>{
   }
 };
 $("#loadMore").onclick=()=>toast("O próximo lote será carregado do banco quando o Supabase for conectado.");
+$("#openByteApp")?.addEventListener("click",()=>{
+  window.setTimeout(()=>toast("Se o Byte App estiver instalado, o ByteLog abriu nele. Sem o app, continue navegando por aqui."),850);
+});
 
 renderEntities();renderPosts();renderProjects();renderProfiles();renderGallery();renderDownloads();bindDynamic();
 renderLiveScene();
