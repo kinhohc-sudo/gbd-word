@@ -1,0 +1,194 @@
+[
+  {
+    "id": "byte",
+    "name": "Byte",
+    "handle": "@byte",
+    "role": "Personagem / IA",
+    "bio": "Guaxinim curioso, aventureiro, gamer e apresentador do PodByte. Conecta tecnologia, amizade e novos mundos.",
+    "avatar": "assets/web/byte-personagem-oficial.webp",
+    "cover": "assets/web/byte-app-poster-oficial.webp",
+    "likes": [
+      "Pizza",
+      "Games",
+      "Aventura"
+    ],
+    "skills": [
+      "Skate",
+      "Moto",
+      "Avião",
+      "Conversar com humanos"
+    ],
+    "projects": [
+      "Byte App",
+      "PodByte",
+      "Splash Arena",
+      "Luminor"
+    ]
+  },
+  {
+    "id": "kim",
+    "name": "Kim",
+    "handle": "@kim",
+    "role": "Personagem",
+    "bio": "Herói de Kim e as Chaves do Mundo. Recupera relíquias ligadas à visão, ao som, ao tempo e às memórias dos anos 1990.",
+    "avatar": "assets/web/kim-personagem-oficial.webp",
+    "cover": "assets/web/kim-game-poster-oficial.webp",
+    "likes": [
+      "Relíquias",
+      "Arcades",
+      "Exploração"
+    ],
+    "skills": [
+      "Plataforma",
+      "Coragem",
+      "Descoberta"
+    ],
+    "projects": [
+      "Kim e as Chaves do Mundo",
+      "Splash Arena"
+    ]
+  },
+  {
+    "id": "mesh",
+    "name": "Mesh",
+    "handle": "@mesh",
+    "role": "Personagem / PodByte",
+    "bio": "Vigilante atrapalhado, carismático e coapresentador do PodByte.",
+    "avatar": "assets/web/mesh-personagem-oficial.webp",
+    "cover": "assets/web/podbyte-poster-oficial.webp",
+    "likes": [
+      "Aventura",
+      "Podcast",
+      "Fama"
+    ],
+    "skills": [
+      "Improviso",
+      "Apresentação",
+      "Persistência"
+    ],
+    "projects": [
+      "PodByte",
+      "Jogo do Mesh",
+      "Splash Arena",
+      "Luminor"
+    ]
+  },
+  {
+    "id": "lilo",
+    "name": "Lilo",
+    "handle": "@lilo",
+    "role": "Personagem / Aplicativo",
+    "bio": "Preguiça acolhedora ligada à comunicação simples, visual e sonora.",
+    "avatar": "assets/web/lilo-personagem-oficial.webp",
+    "cover": "assets/web/lilo-app-poster-oficial.webp",
+    "likes": [
+      "Acolhimento",
+      "Sons",
+      "Imagens"
+    ],
+    "skills": [
+      "Comunicação",
+      "Autonomia",
+      "Empatia"
+    ],
+    "projects": [
+      "Comunicador do Lilo",
+      "Jogo do Lilo",
+      "Jumper Boy"
+    ]
+  },
+  {
+    "id": "horacio",
+    "name": "Horácio",
+    "handle": "@horacio",
+    "role": "Personagem",
+    "bio": "Tartaruga hacker, estrategista e especialista em drones.",
+    "avatar": "assets/web/horacio-personagem-oficial.webp",
+    "cover": "assets/web/horacio-game-poster-oficial.webp",
+    "likes": [
+      "Drones",
+      "Eletrônica",
+      "Planos"
+    ],
+    "skills": [
+      "Hacking",
+      "Pilotagem",
+      "Estratégia"
+    ],
+    "projects": [
+      "Horácio",
+      "Comunicador do Lilo"
+    ]
+  },
+  {
+    "id": "volts",
+    "name": "Volts",
+    "handle": "@volts",
+    "role": "Personagem",
+    "bio": "Patinador profissional movido por um coração artificial que precisa ser recarregado.",
+    "avatar": "assets/web/volts-personagem-oficial.webp",
+    "cover": "assets/web/volts-game-poster-oficial.webp",
+    "likes": [
+      "Velocidade",
+      "Ritmo",
+      "Energia"
+    ],
+    "skills": [
+      "Patinação",
+      "Manobras",
+      "Agilidade"
+    ],
+    "projects": [
+      "Volts",
+      "Jumper Boy",
+      "Splash Arena"
+    ]
+  },
+  {
+    "id": "emily",
+    "name": "Emily",
+    "handle": "@emily",
+    "role": "Personagem / Cientista",
+    "bio": "Cientista prodígio, especialista em robótica e IA, criadora de Eli e Atin.",
+    "avatar": "assets/web/emily-personagem-oficial.webp",
+    "cover": "assets/web/luminor-poster-oficial.webp",
+    "likes": [
+      "Robótica",
+      "Anime",
+      "Música"
+    ],
+    "skills": [
+      "IA",
+      "Pesquisa",
+      "Engenharia"
+    ],
+    "projects": [
+      "Luminor",
+      "Splash Arena",
+      "PodByte"
+    ]
+  },
+  {
+    "id": "eli",
+    "name": "Eli",
+    "handle": "@eli",
+    "role": "IA / Personagem",
+    "bio": "IA avançada criada por Emily e coadministradora de Luminor.",
+    "avatar": "assets/web/eli-personagem-oficial.webp",
+    "cover": "assets/web/luminor-poster-oficial.webp",
+    "likes": [
+      "Organização",
+      "Luminor",
+      "Ajudar"
+    ],
+    "skills": [
+      "Administração",
+      "Comunicação",
+      "IA"
+    ],
+    "projects": [
+      "Luminor",
+      "Eli App"
+    ]
+  }
+]

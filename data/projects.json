@@ -1,0 +1,92 @@
+[
+  {
+    "id": "byte-app",
+    "name": "Byte App",
+    "type": "Aplicativo com IA",
+    "status": "Em desenvolvimento",
+    "progress": 68,
+    "poster": "assets/web/byte-app-poster-oficial.webp",
+    "desc": "Amigo virtual com IA, cuidados, chat, ByteLog e minigames."
+  },
+  {
+    "id": "podbyte",
+    "name": "PodByte",
+    "type": "Podcast",
+    "status": "Episódio 1 concluído",
+    "progress": 100,
+    "poster": "assets/web/podbyte-poster-oficial.webp",
+    "desc": "Podcast oficial apresentado por Byte e Mesh."
+  },
+  {
+    "id": "parallax",
+    "name": "Parallax",
+    "type": "Game",
+    "status": "85%",
+    "progress": 85,
+    "poster": "assets/web/parallax-game-poster-oficial.webp",
+    "desc": "Forfan absorve elementos e transforma tudo em poder."
+  },
+  {
+    "id": "kim",
+    "name": "Kim e as Chaves do Mundo",
+    "type": "Game",
+    "status": "Pronto",
+    "progress": 100,
+    "poster": "assets/web/kim-game-poster-oficial.webp",
+    "desc": "Aventura em busca das relíquias do mundo."
+  },
+  {
+    "id": "caramelo",
+    "name": "Caramelo",
+    "type": "Game",
+    "status": "70%",
+    "progress": 70,
+    "poster": "assets/web/caramelo-game-poster-oficial.webp",
+    "desc": "Corra, pule e siga em frente."
+  },
+  {
+    "id": "horacio",
+    "name": "Horácio",
+    "type": "Game",
+    "status": "30%",
+    "progress": 30,
+    "poster": "assets/web/horacio-game-poster-oficial.webp",
+    "desc": "A aventura do mestre dos drones."
+  },
+  {
+    "id": "volts",
+    "name": "Volts",
+    "type": "Game",
+    "status": "Em desenvolvimento",
+    "progress": 45,
+    "poster": "assets/web/volts-game-poster-oficial.webp",
+    "desc": "Velocidade, ritmo e coração."
+  },
+  {
+    "id": "splash-arena",
+    "name": "Luminor: Splash Arena",
+    "type": "Game",
+    "status": "Pronto para apresentação",
+    "progress": 100,
+    "poster": "assets/web/splash-arena-poster-oficial.webp",
+    "desc": "Batalhas de tinta, velocidade e caos divertido."
+  },
+  {
+    "id": "luminor",
+    "name": "Luminor",
+    "type": "Universo / Game",
+    "status": "Pré-produção",
+    "progress": 20,
+    "poster": "assets/web/luminor-poster-oficial.webp",
+    "desc": "A cidade dos sonhos, criada por ciência, imaginação e IA."
+  },
+  {
+    "id": "lilo-app",
+    "name": "Comunicador do Lilo",
+    "type": "Aplicativo",
+    "status": "Pronto",
+    "progress": 100,
+    "poster": "assets/web/lilo-app-poster-oficial.webp",
+    "desc": "Comunicação simples, visual e acolhedora."
+  }
+]

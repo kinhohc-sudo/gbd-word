@@ -1,0 +1,8 @@
+.vercel-tools/
+.vercel/
+node_modules/
+*.log
+.DS_Store
+assets/official/
+assets/web/luminor-lobo-conceito-gerado.png
+assets/web/mitch-conceito-gerado.png

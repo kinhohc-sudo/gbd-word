@@ -1,0 +1,74 @@
+[
+  {
+    "author": "Byte",
+    "profile": "byte",
+    "time": "46 min",
+    "kind": "Oficial",
+    "text": "Acabei de descobrir uma relíquia lendária no Quarto do Kim! Será que você consegue achar também?",
+    "image": "assets/web/kim-game-poster-oficial.webp",
+    "pizza": 128,
+    "banana": 23,
+    "heart": 214,
+    "comments": 56
+  },
+  {
+    "author": "PodByte",
+    "profile": "mesh",
+    "time": "2 h",
+    "kind": "PodByte",
+    "text": "O Episódio 1 está concluído. O arquivo final entra neste espaço assim que for adicionado ao projeto.",
+    "image": "assets/web/podbyte-poster-oficial.webp",
+    "pizza": 96,
+    "banana": 18,
+    "heart": 172,
+    "comments": 42
+  },
+  {
+    "author": "Kim",
+    "profile": "kim",
+    "time": "3 h",
+    "kind": "Personagem",
+    "text": "Missão secreta em andamento. Em breve, uma nova aventura vai começar pelo Byte World.",
+    "image": "assets/web/kim-game-poster-oficial.webp",
+    "pizza": 104,
+    "banana": 27,
+    "heart": 198,
+    "comments": 61
+  },
+  {
+    "author": "Parallax",
+    "profile": "byte",
+    "time": "4 h",
+    "kind": "Projeto",
+    "text": "Explore um mundo mágico repleto de desafios e poderes elementais.",
+    "image": "assets/web/parallax-game-poster-oficial.webp",
+    "pizza": 142,
+    "banana": 31,
+    "heart": 263,
+    "comments": 73
+  },
+  {
+    "author": "Lilo App",
+    "profile": "lilo",
+    "time": "6 h",
+    "kind": "Aplicativo",
+    "text": "Dica de comunicação do dia: seja claro, gentil e sempre escute com atenção.",
+    "image": "assets/web/lilo-app-poster-oficial.webp",
+    "pizza": 78,
+    "banana": 12,
+    "heart": 156,
+    "comments": 34
+  },
+  {
+    "author": "GBD Studio",
+    "profile": "byte",
+    "time": "Hoje",
+    "kind": "Estúdio",
+    "text": "O GBD World está sendo preparado com os ativos oficiais, sem redesenhar personagens ou substituir capas.",
+    "image": "assets/web/gbd-world-digital-oficial.webp",
+    "pizza": 230,
+    "banana": 2,
+    "heart": 318,
+    "comments": 45
+  }
+]

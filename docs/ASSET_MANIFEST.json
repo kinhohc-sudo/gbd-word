@@ -1,0 +1,362 @@
+[
+  {
+    "officialName": "atin-personagem-oficial.png",
+    "projectPath": "assets/official/characters/atin-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166587.png",
+    "sizeBytes": 143273,
+    "sha256": "e7e7bec3f7804f33b809b9eda152c08d3a302c390b8f6b941ea1da73538e81d6",
+    "width": 1229,
+    "height": 1536
+  },
+  {
+    "officialName": "byte-app-poster-oficial.png",
+    "projectPath": "assets/official/posters/byte-app-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/byte_seu_amigo_virtual_com_ia.png",
+    "sizeBytes": 2106924,
+    "sha256": "1d680d516a0bfd16ef0b82d27107c7a70164356d441614909d67fd8a35636c55",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "byte-personagem-oficial.png",
+    "projectPath": "assets/official/characters/byte-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166602.png",
+    "sizeBytes": 150540,
+    "sha256": "dd2b7f9b229c1114508b129780ca7b9f7ee4221640a2932da8e987361ac7ec0b",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "officialName": "bytelog-logo-g-oficial.png",
+    "projectPath": "assets/official/logos/bytelog-logo-g-oficial.png",
+    "sourceOriginal": null,
+    "sizeBytes": 659074,
+    "sha256": "947c4ce7ab263bb6d694e8fecec34870e34065b0a151777bb1128c1bea4a8ec4",
+    "width": 1152,
+    "height": 1152
+  },
+  {
+    "officialName": "bytelog-logo-g-source.jpg",
+    "projectPath": "assets/official/logos/bytelog-logo-g-source.jpg",
+    "sourceOriginal": "/mnt/data/1000167637.jpg",
+    "sizeBytes": 137517,
+    "sha256": "bff4b95e754c0a5c9793caec99daaeb77fe02dfaec45cfeefbc08f818587632e",
+    "width": 1536,
+    "height": 1449
+  },
+  {
+    "officialName": "caramelo-game-poster-oficial.png",
+    "projectPath": "assets/official/posters/caramelo-game-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/pôster_pixel_art_do_jogo_caramelo.png",
+    "sizeBytes": 2172834,
+    "sha256": "a72a856c02e796819bcdb696ccc670b5398e90a26b83766dbf7bfe5218707218",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "caramelo-model-sheet-oficial.png",
+    "projectPath": "assets/official/characters/caramelo-model-sheet-oficial.png",
+    "sourceOriginal": "/mnt/data/caramelo_frame.png",
+    "sizeBytes": 1396091,
+    "sha256": "cae1608001dd97b073b8a4f71a9c8902d7b56fccf7859eb086010bb748ad2fce",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "officialName": "eli-personagem-oficial.png",
+    "projectPath": "assets/official/characters/eli-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166591.png",
+    "sizeBytes": 150734,
+    "sha256": "92f012e10f63ac343a907a5255f9e66eef958594f1e54463c19d3da7bad2f5e3",
+    "width": 1227,
+    "height": 1536
+  },
+  {
+    "officialName": "emily-personagem-oficial.png",
+    "projectPath": "assets/official/characters/emily-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166585.png",
+    "sizeBytes": 150985,
+    "sha256": "f8eb65722ae72d55a0ac441c16e2845e8435da12741be86b1a024d77cde68907",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "officialName": "flip-poster-oficial.png",
+    "projectPath": "assets/official/posters/flip-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167720.png",
+    "sizeBytes": 505163,
+    "sha256": "be1e53d2cc9dd14af558d70c850379f1b4bad5dd7a7011421f80df836b9261ac",
+    "width": 1152,
+    "height": 1536
+  },
+  {
+    "officialName": "forfan-mimo-personagens-oficiais.png",
+    "projectPath": "assets/official/forfan-mimo-personagens-oficiais.png",
+    "sourceOriginal": "/mnt/data/1000167674.png",
+    "sizeBytes": 208916,
+    "sha256": "5b7e3f6b77b1a719782f8cc374a46773ae2b082807073aa0ecec812080e92a8b",
+    "width": 1536,
+    "height": 1536
+  },
+  {
+    "officialName": "gbd-identidade-oficial.png",
+    "projectPath": "assets/official/logos/gbd-identidade-oficial.png",
+    "sourceOriginal": "/mnt/data/1000152727.png",
+    "sizeBytes": 372497,
+    "sha256": "76e0d3a38633d98d31affd43c3613b8ce61a03edf4323bcf0235b512dacb9534",
+    "width": 1536,
+    "height": 1536
+  },
+  {
+    "officialName": "gbd-studio-logo-oficial.png",
+    "projectPath": "assets/official/logos/gbd-studio-logo-oficial.png",
+    "sourceOriginal": "/mnt/data/gbd_studio.png",
+    "sizeBytes": 2313501,
+    "sha256": "ecd905122ead784607b762fda62d20d7ba502d11915e3cc1ba40cf87f18d5eb9",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "officialName": "gbd-world-digital-oficial.png",
+    "projectPath": "assets/official/logos/gbd-world-digital-oficial.png",
+    "sourceOriginal": "/mnt/data/universo_digital_conecte_compartilhe_explore.png",
+    "sizeBytes": 2148218,
+    "sha256": "dd487f9659b794c9c359d5a36403211d8180192def061a85f05a91e54262446f",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "officialName": "horacio-game-poster-oficial.png",
+    "projectPath": "assets/official/posters/horacio-game-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/we_need_title_in_pt_br_sentence_case_7_words.png",
+    "sizeBytes": 2072504,
+    "sha256": "527c910bdcbca25d8485a0e9c77d76366404423050aa23be80aab4ee592e33e7",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "horacio-personagem-oficial.png",
+    "projectPath": "assets/official/characters/horacio-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167671.png",
+    "sizeBytes": 177346,
+    "sha256": "5fb79d1156f331e503a5a25936da7ce2bafb625c5d7b5177d77bfde88700b005",
+    "width": 1152,
+    "height": 1536
+  },
+  {
+    "officialName": "kim-game-poster-oficial.png",
+    "projectPath": "assets/official/posters/kim-game-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/capa_pixelada_kim_e_as_chaves_do_mundo.png",
+    "sizeBytes": 1918989,
+    "sha256": "d4040e00e71c9996577742498332e3e876e08c169adc45c8ce0d1826719c7962",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "kim-personagem-oficial.png",
+    "projectPath": "assets/official/characters/kim-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167667.png",
+    "sizeBytes": 188456,
+    "sha256": "f4963813f7d9b0d8902bcefa7d7dcd7d5bc6dfdfe4791e268d33d5d273aae50a",
+    "width": 1229,
+    "height": 1536
+  },
+  {
+    "officialName": "kit-midia-gbd-world-oficial.png",
+    "projectPath": "assets/official/products/kit-midia-gbd-world-oficial.png",
+    "sourceOriginal": "/mnt/data/kit_de_mídia_gbd_world_neon.png",
+    "sizeBytes": 2270998,
+    "sha256": "4e53ed5836c430c5c8146085ffa4e6e9f10b7e2d918264231177e21ac4127dda",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "officialName": "layout-bytelog-alternativo.png",
+    "projectPath": "assets/official/layout/layout-bytelog-alternativo.png",
+    "sourceOriginal": "/mnt/data/painel_bytelog_em_neon_azul_sci_fi.png",
+    "sizeBytes": 1866747,
+    "sha256": "3412f91a128aa771b3732c6619e2a4124526da30ac1e38d2fd259e28d9688815",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "officialName": "layout-bytelog-oficial.png",
+    "projectPath": "assets/official/layout/layout-bytelog-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167388.png",
+    "sizeBytes": 321260,
+    "sha256": "bcbf4af43ced5cd0e12f11008d0a881a24c17b11aeb010e2e43baacfdf453952",
+    "width": 1536,
+    "height": 864
+  },
+  {
+    "officialName": "layout-perfil-byte-oficial.png",
+    "projectPath": "assets/official/layout/layout-perfil-byte-oficial.png",
+    "sourceOriginal": "/mnt/data/perfil_de_byte_em_neon_azul.png",
+    "sizeBytes": 1965272,
+    "sha256": "ae7b189ab2c10b7171c1517f5744a08c0ba54fa8419648ef1644a4063778df31",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "officialName": "lilo-app-poster-oficial.png",
+    "projectPath": "assets/official/posters/lilo-app-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/comunicador_do_lilo_comunicação_tropical_e_acolhe.png",
+    "sizeBytes": 2403187,
+    "sha256": "a02617d2d7865fdda2724295ff3b9af07425627443b906d9eb2296d41dad8939",
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "officialName": "lilo-personagem-oficial.png",
+    "projectPath": "assets/official/characters/lilo-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167673.png",
+    "sizeBytes": 317472,
+    "sha256": "4ba6bd57842196066749ab3e07cb028d380c0a33d5dc265fff91cd8955ae06da",
+    "width": 1229,
+    "height": 1536
+  },
+  {
+    "officialName": "luminor-poster-oficial.png",
+    "projectPath": "assets/official/posters/luminor-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/luminor_a_cidade_dos_sonhos.png",
+    "sizeBytes": 2350868,
+    "sha256": "b24472921529a2e21cbef1c5b2ec8f0c937a0df15d7cb45790564792a60becfb",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "mesh-personagem-oficial.png",
+    "projectPath": "assets/official/characters/mesh-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167668.png",
+    "sizeBytes": 173817,
+    "sha256": "1c90c6c87e307aa46634fed1244aa575d93beea668a0ee2b79fd16bd375d6f32",
+    "width": 1152,
+    "height": 1536
+  },
+  {
+    "officialName": "mimo-personagem-oficial.png",
+    "projectPath": "assets/official/characters/mimo-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/Gemini_Generated_Image_ap2taqap2taqap2t.png",
+    "sizeBytes": 12222,
+    "sha256": "529b35f00005468cc4a11ac15267fdd822aaefb76cb9c7f8fc699a6439968390",
+    "width": 77,
+    "height": 70
+  },
+  {
+    "officialName": "mox-personagem-oficial.png",
+    "projectPath": "assets/official/characters/mox-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167670.png",
+    "sizeBytes": 197542,
+    "sha256": "cebcb439fe135f90d7c9c1ebbf8b2bd98844a2a9f2e5067bcbb7e106517c007e",
+    "width": 1152,
+    "height": 1536
+  },
+  {
+    "officialName": "nixie-poster-oficial.png",
+    "projectPath": "assets/official/posters/nixie-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167719.png",
+    "sizeBytes": 460897,
+    "sha256": "4fe249619563068fb052ce721a788f468875d49b5f89aeed131b14f4a966b1da",
+    "width": 1152,
+    "height": 1536
+  },
+  {
+    "officialName": "parallax-game-poster-oficial.png",
+    "projectPath": "assets/official/posters/parallax-game-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/portal_dos_slimes_elementais.png",
+    "sizeBytes": 2358783,
+    "sha256": "51833a5d940b1249a2ed3ed6e4e618907e381eae8094d85428db6e446e76f9b2",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "podbyte-estudio-oficial.png",
+    "projectPath": "assets/official/studio/podbyte-estudio-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166568.png",
+    "sizeBytes": 283218,
+    "sha256": "dd9cc49560bf6d3b4e2a9d90d233a7576ced9127ec7e81263fcad11bd963f3fd",
+    "width": 1536,
+    "height": 864
+  },
+  {
+    "officialName": "podbyte-poster-oficial.png",
+    "projectPath": "assets/official/posters/podbyte-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/podcast_podbyte_com_mascotes_geek.png",
+    "sizeBytes": 2272452,
+    "sha256": "a15727312c3f9760126adc6399eba9cedb73c5cd205cd0b2bdaef0debeae90da",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "produto-podbyte-caneca-oficial.png",
+    "projectPath": "assets/official/products/produto-podbyte-caneca-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166750.png",
+    "sizeBytes": 98503,
+    "sha256": "1416e090fef74e29244e8ba73e3de8912a8e2aa4ef25a50b59b8899d3d31b4ef",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "officialName": "produtos-byte-podbyte-oficial.png",
+    "projectPath": "assets/official/products/produtos-byte-podbyte-oficial.png",
+    "sourceOriginal": "/mnt/data/1000166751.png",
+    "sizeBytes": 271817,
+    "sha256": "4c578105008f636cbb432b86d51f1d0b09419c46d2fa0e4be03f73c344ed5150",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "officialName": "produtos-gbd-world-oficial.png",
+    "projectPath": "assets/official/products/produtos-gbd-world-oficial.png",
+    "sourceOriginal": "/mnt/data/loja_gbd_world_universo_neon_e_produtos_oficiais.png",
+    "sizeBytes": 1862384,
+    "sha256": "22c5971ba8ddfda183ccfc2fa82f72a6669ae3ccbf7ac5b85d01ac99e280fc21",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "officialName": "splash-arena-poster-oficial.png",
+    "projectPath": "assets/official/posters/splash-arena-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/arena_neon_de_tintas.png",
+    "sizeBytes": 2535593,
+    "sha256": "d8368ab8c09e8ecb0a3a114901b81ed6a41d7136d13b0cbbac8ace0e087eff2f",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "torpedo-logo-oficial.png",
+    "projectPath": "assets/official/logos/torpedo-logo-oficial.png",
+    "sourceOriginal": "/mnt/data/cedcd028-7560-4a51-a7d1-76ccfd63b08a.png",
+    "sizeBytes": 14385,
+    "sha256": "f959d25c658330d229d84bfe40b0f1a2f1a5a51748ea3989b0779fe68b5aa911",
+    "width": 89,
+    "height": 81
+  },
+  {
+    "officialName": "universo-personagens-poster-oficial.png",
+    "projectPath": "assets/official/posters/universo-personagens-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/estúdio_gbd_universo_de_personagens.png",
+    "sizeBytes": 2357078,
+    "sha256": "e36d32c46647f1a66c5362f46a514c513e16e62b6bb2fb3a42bd3e36cef1f138",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "volts-game-poster-oficial.png",
+    "projectPath": "assets/official/posters/volts-game-poster-oficial.png",
+    "sourceOriginal": "/mnt/data/neon_arena_velocidade_e_coração.png",
+    "sizeBytes": 2510649,
+    "sha256": "8bde273622f30979700ac49cea7a325799ac09f0d2679e6dc0ba84b39b2bef55",
+    "width": 1122,
+    "height": 1402
+  },
+  {
+    "officialName": "volts-personagem-oficial.png",
+    "projectPath": "assets/official/characters/volts-personagem-oficial.png",
+    "sourceOriginal": "/mnt/data/1000167672.png",
+    "sizeBytes": 209342,
+    "sha256": "fb8355e57f1c062755abf0dcc03c8596fe2add024fa001ef85909c44f9c35997",
+    "width": 1152,
+    "height": 1536
+  }
+]

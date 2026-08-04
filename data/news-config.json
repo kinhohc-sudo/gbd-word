@@ -1,0 +1,19 @@
+{
+  "enabled": false,
+  "provider": "xAI / Grok",
+  "mode": "draft_only",
+  "categories": [
+    "games",
+    "inteligência artificial",
+    "tecnologia",
+    "game development",
+    "Godot",
+    "Android"
+  ],
+  "rules": [
+    "A IA cria somente rascunhos.",
+    "Nenhuma notícia é publicada sem revisão editorial.",
+    "Toda notícia deve preservar URL, título original, data e fonte.",
+    "A IA não altera layout, arquivos, personagens, pôsteres ou logos."
+  ]
+}

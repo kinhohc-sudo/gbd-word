@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#020814">
+  <meta name="description" content="GBD World - ByteLog, personagens, games, aplicativos e PodByte.">
+  <title>GBD World - ByteLog</title>
+  <link rel="icon" href="assets/official/logos/bytelog-logo-g-oficial.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="shell topbar__inner">
+    <button class="brand" data-view="bytelog" aria-label="GBD World">
+      <span class="brand__mark"><img src="assets/official/logos/gbd-studio-logo-oficial.png" alt=""></span>
+      <strong>GBD <em>WORLD</em></strong>
+    </button>
+    <nav class="mainnav" aria-label="Navegação principal">
+      <button data-view="home">⌂ Início</button>
+      <button data-view="projects">▣ Projetos</button>
+      <button class="active" data-view="bytelog">▣ ByteLog</button>
+      <button data-view="profiles">◎ Perfis</button>
+      <button data-view="gallery">▧ Galeria</button>
+      <button data-view="live">◉ Ao vivo</button>
+      <button data-view="podbyte">◉ PodByte</button>
+      <button data-view="downloads">⇩ Downloads</button>
+    </nav>
+    <div class="topbar__actions">
+      <button class="search" id="searchButton">Buscar no site... <span>⌕</span></button>
+      <button class="icon-button" id="torpedoButton" title="Torpedo">◌</button>
+    </div>
+  </div>
+</header>
+
+<main>
+<section class="view active" id="view-bytelog">
+  <div class="shell page">
+    <section class="network-cover">
+      <img class="network-cover__bg" src="assets/web/universo-personagens-poster-oficial.webp" alt="">
+      <div class="network-cover__shade"></div>
+      <img class="network-cover__logo" src="assets/official/logos/bytelog-logo-g-oficial.png" alt="Logo oficial ByteLog">
+      <div class="network-cover__identity">
+        <img class="network-avatar" src="assets/web/byte-personagem-oficial.webp" alt="Byte">
+        <div>
+          <div class="network-title"><h1>ByteLog</h1><span>✓</span></div>
+          <strong>@bytelog.oficial</strong>
+          <p>Rede social oficial do universo GBD. Perfis, projetos, bastidores e novas aventuras.</p>
+        </div>
+      </div>
+      <div class="cover-phrase">Converse, cuide,<br>jogue e viva aventuras!</div>
+      <button class="cover-expand" data-open-image="assets/official/layout/layout-bytelog-oficial.png">↗</button>
+    </section>
+
+    <nav class="subnav">
+      <button class="active">⌂ Visão geral</button>
+      <button>▤ Publicações</button>
+      <button>◇ Novidades</button>
+      <button>▧ Mídia</button>
+      <button id="torpedoTab">▱ Torpedo</button>
+    </nav>
+
+    <div class="bytelog-grid">
+      <aside class="sidebar sidebar--left">
+        <article class="panel about">
+          <h2>Sobre o ByteLog</h2>
+          <p>O ByteLog é a rede social oficial do universo GBD, onde amigos se conectam, compartilham aventuras e acompanham tudo o que acontece nos mundos dos nossos projetos.</p>
+          <ul>
+            <li>◎ Comunidade oficial do universo GBD</li>
+            <li>▣ Novidades, eventos e bastidores</li>
+            <li>◇ Conteúdo de jogos, apps e tecnologia</li>
+            <li><span class="status-dot"></span> Seguro, amigável e para todas as idades</li>
+          </ul>
+          <button class="slogan-card" data-view="home">
+            <img src="assets/official/logos/bytelog-logo-g-oficial.png" alt="">
+            <b>Converse, cuide, jogue<br>e viva aventuras!</b>
+          </button>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading"><h2>Personagens e projetos</h2></div>
+          <div id="leftEntities" class="entity-list"></div>
+          <button class="panel-link" data-view="profiles">Ver todos os perfis</button>
+        </article>
+      </aside>
+
+      <section class="feed-column">
+        <div class="feed-heading"><h2>Feed de publicações</h2><button>Mais recentes⌄</button></div>
+        <div class="feed-scroll" id="feed"></div>
+        <button class="load-more" id="loadMore">⟳ Carregar mais publicações</button>
+      </section>
+
+      <aside class="sidebar sidebar--right">
+        <article class="panel">
+          <div class="panel-heading"><h2>☆ Destaques</h2><button>Ver todos</button></div>
+          <button class="feature" data-profile="byte">
+            <img src="assets/web/byte-app-poster-oficial.webp" alt="">
+            <span><b>Bem-vindo ao ByteLog!</b><small>O lugar oficial para acompanhar o universo GBD.</small></span>
+          </button>
+          <div class="dots"><i class="active"></i><i></i><i></i><i></i></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading"><h2>Galeria</h2><button data-view="gallery">Ver todos</button></div>
+          <div class="side-gallery" id="sideGallery"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading"><h2>Fotos e pôsteres</h2><button data-view="gallery">Ver todos</button></div>
+          <div class="poster-row" id="posterRow"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading"><h2>Últimas atualizações</h2><button>Ver todas</button></div>
+          <div class="updates">
+            <p><i class="pink"></i> Episódio 1 do PodByte concluído <time>Hoje</time></p>
+            <p><i class="blue"></i> Logo G oficial do ByteLog catalogado <time>Hoje</time></p>
+            <p><i class="gold"></i> Capas oficiais organizadas <time>Hoje</time></p>
+            <p><i class="green"></i> Estrutura de notícias Grok preparada <time>Draft</time></p>
+          </div>
+        </article>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="view" id="view-home">
+  <div class="shell page">
+    <section class="world-hero">
+      <img src="assets/web/gbd-world-digital-oficial.webp" alt="GBD World">
+      <div class="world-hero__overlay"></div>
+      <div class="world-hero__copy">
+        <span>GBD Studio apresenta</span>
+        <h1>Um universo.<br>Infinitas histórias.</h1>
+        <p>Jogos, aplicativos, personagens, música, tecnologia e histórias organizados em uma casa digital viva.</p>
+        <div><button class="primary" data-view="projects">Explorar projetos</button><button data-view="bytelog">Abrir ByteLog</button></div>
+      </div>
+    </section>
+    <div class="section-title"><div><small>Projetos em destaque</small><h2>Portais para cada mundo</h2></div></div>
+    <div class="project-grid" id="homeProjects"></div>
+  </div>
+</section>
+
+<section class="view" id="view-projects">
+  <div class="shell page">
+    <div class="section-title"><div><small>Biblioteca GBD</small><h1>Projetos</h1><p>Games, aplicativos, podcast e universos usando exclusivamente as capas oficiais.</p></div></div>
+    <div class="project-grid project-grid--full" id="projectGrid"></div>
+  </div>
+</section>
+
+<section class="view" id="view-project">
+  <div class="shell page" id="projectMount"></div>
+</section>
+
+<section class="view" id="view-profiles">
+  <div class="shell page">
+    <div class="section-title"><div><small>ByteLog</small><h1>Perfis oficiais</h1><p>Cada perfil segue a mesma linguagem visual, com banner, avatar, gostos, habilidades, aparições e publicações.</p></div></div>
+    <div class="profile-grid" id="profileGrid"></div>
+  </div>
+</section>
+
+<section class="view" id="view-profile">
+  <div class="shell page" id="profileMount"></div>
+</section>
+
+<section class="view" id="view-gallery">
+  <div class="shell page">
+    <div class="section-title"><div><small>Arquivo visual</small><h1>Artes e pôsteres oficiais</h1><p>As imagens abaixo são ativos oficiais e não devem ser redesenhadas.</p></div></div>
+    <div class="gallery-grid" id="galleryGrid"></div>
+  </div>
+</section>
+
+<section class="view" id="view-live">
+  <div class="shell page">
+    <div class="section-title"><div><small>Byte ao vivo</small><h1>O que o Byte está fazendo?</h1><p>Uma janela para a rotina do Byte. A cena muda a cada visita.</p></div></div>
+    <section class="live-card">
+      <div class="live-card__video"><video id="byteLiveVideo" autoplay muted loop playsinline></video><span class="live-badge"><i></i> AO VIVO</span></div>
+      <div class="live-card__copy"><small id="byteLiveLabel">Rotina do Byte</small><h2 id="byteLiveTitle">Byte está por aqui</h2><p id="byteLiveDescription">Ele está aproveitando um momento tranquilo no quarto.</p><button class="primary" id="changeLiveScene">Ver outra cena</button><p class="live-note">As cenas públicas são selecionadas da biblioteca aprovada do Byte.</p></div>
+    </section>
+  </div>
+</section>
+
+<section class="view" id="view-podbyte">
+  <div class="shell page">
+    <section class="podbyte-hero">
+      <img src="assets/web/podbyte-estudio-oficial.webp" alt="Estúdio PodByte">
+      <div class="podbyte-hero__overlay"></div>
+      <div><small>GBD Studio</small><h1>PodByte</h1><p>Conteúdo, games, tecnologia e histórias do universo GBD.</p></div>
+    </section>
+    <article class="episode-card">
+      <img src="assets/web/podbyte-poster-oficial.webp" alt="PodByte">
+      <div>
+        <small>Temporada 1</small>
+        <h2>Episódio 1</h2>
+        <p>O Episódio 1 está em finalização de áudio. A versão visual está preservada e a estreia oficial será publicada quando as vozes de Byte e Mesh estiverem aprovadas.</p>
+        <div class="episode-status">EM FINALIZAÇÃO DE ÁUDIO - EM BREVE</div>
+      </div>
+    </article>
+    <section class="generation-errors">
+      <div class="generation-errors__sign">GRAVAÇÃO <span>CAIU</span><b>GERAÇÃO</b></div>
+      <div><small>Quadro do PodByte</small><h2>Erros de Geração</h2><p>Memes, takes estranhos, falhas inesperadas e cenas que a IA inventou no caminho. No PodByte, até os bugs viram parte do programa.</p></div>
+      <button data-view="gallery">Ver clipes e bastidores</button>
+    </section>
+  </div>
+</section>
+
+<section class="view" id="view-downloads">
+  <div class="shell page">
+    <div class="section-title"><div><small>Distribuição</small><h1>Downloads</h1><p>Slots para APKs, versão, tamanho, notas e histórico.</p></div></div>
+    <div class="download-list" id="downloadList"></div>
+  </div>
+</section>
+</main>
+
+<aside class="torpedo" id="torpedo">
+  <header><img src="assets/web/torpedo-logo-oficial.webp" alt=""><div><b>Torpedo</b><small>Mensagens do ByteLog</small></div><button id="closeTorpedo">×</button></header>
+  <div class="conversation"><img src="assets/web/byte-personagem-oficial.webp" alt=""><span><b>Byte</b><small>Preparando uma nova aventura...</small></span></div>
+  <div class="conversation"><img src="assets/web/mesh-personagem-oficial.webp" alt=""><span><b>Mesh</b><small>O estúdio do PodByte está pronto.</small></span></div>
+  <div class="torpedo-note">Interface estrutural. A conexão real fica para o Codex/Supabase.</div>
+</aside>
+<div class="backdrop" id="backdrop"></div>
+
+<div class="image-modal" id="imageModal">
+  <button id="closeImage">×</button>
+  <img id="modalImage" alt="Arte oficial em destaque">
+</div>
+
+<div class="toast" id="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>

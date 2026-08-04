@@ -1,0 +1,13 @@
+{
+  "series": "PodByte",
+  "season": 1,
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Episódio 1",
+      "status": "concluído - arquivo de mídia ainda não anexado",
+      "mediaPath": null,
+      "poster": "assets/web/podbyte-poster-oficial.webp"
+    }
+  ]
+}
