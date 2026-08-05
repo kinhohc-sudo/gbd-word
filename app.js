@@ -95,10 +95,10 @@ const gallery = [
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
 const liveScenes = {
-  idle:{src:"assets/live/byte-live-idle.mp4",label:"Rotina tranquila",title:"Byte está descansando",description:"Nem toda aventura precisa de pressa. Agora ele só está aproveitando um momento calmo."},
-  reading:{src:"assets/live/byte-live-reading.mp4",label:"Hora de ler",title:"Byte está lendo",description:"Ele encontrou uma história interessante e está guardando ideias para contar depois."},
-  music:{src:"assets/live/byte-live-music.mp4",label:"Som ligado",title:"Byte está curtindo música",description:"Uma pausa com música também faz parte das aventuras do Byte."},
-  gaming:{src:"assets/live/byte-live-gaming.mp4",label:"Momento gamer",title:"Byte está jogando",description:"A agenda de hoje reservou um tempo para games."},
+  idle:{src:"assets/live/byte-live-idle.mp4",camera:"sala",label:"Rotina tranquila",title:"Byte está descansando",description:"Nem toda aventura precisa de pressa. Agora ele só está aproveitando um momento calmo."},
+  reading:{src:"assets/live/byte-live-reading.mp4",camera:"quarto",label:"Hora de ler",title:"Byte está lendo",description:"Ele encontrou uma história interessante e está guardando ideias para contar depois."},
+  music:{src:"assets/live/byte-live-music.mp4",camera:"estudio",label:"Som ligado",title:"Byte está curtindo música",description:"Uma pausa com música também faz parte das aventuras do Byte."},
+  gaming:{src:"assets/live/byte-live-gaming.mp4",camera:"estudio",label:"Momento gamer",title:"Byte está jogando",description:"A agenda de hoje reservou um tempo para games."},
   away:{label:"Casa vazia",title:"Byte está fora de casa",description:"A câmera continua ligada na sala, mas o Byte saiu para cumprir a rotina.",empty:true},
   sleeping:{label:"Modo silencioso",title:"Byte está dormindo",description:"A casa está em silêncio. A câmera da sala permanece ligada, mas o quarto não é transmitido.",empty:true},
   bathroom:{label:"Pausa de rotina",title:"Byte está no banheiro",description:"A câmera respeita a privacidade dele e mostra apenas a sala vazia.",empty:true},
@@ -127,12 +127,21 @@ function renderLiveScene(){
   const {key,schedule}=scheduledLiveScene();
   const scene=liveScenes[key];
   const video=$("#byteLiveVideo");
-  const empty=$("#byteLiveEmpty");
   if(!video)return;
-  empty.hidden=!scene.empty;
-  video.hidden=Boolean(scene.empty);
-  if(!scene.empty){ video.src=scene.src; video.load(); video.play().catch(()=>{}); }
-  else { video.pause(); video.removeAttribute("src"); video.load(); }
+  const cameras=$$(".live-camera");
+  cameras.forEach(camera=>camera.classList.remove("live-camera--active","live-camera--mimo"));
+  const activeCamera=scene.empty ? null : document.querySelector(`.live-camera[data-camera="${scene.camera||"sala"}"]`);
+  if(activeCamera){
+    activeCamera.classList.add("live-camera--active");
+    activeCamera.prepend(video);
+    video.hidden=false;
+    video.src=scene.src; video.load(); video.play().catch(()=>{});
+  } else {
+    video.pause(); video.removeAttribute("src"); video.load(); video.hidden=true;
+  }
+  const now=saoPauloNow();
+  const quarto=document.querySelector('.live-camera[data-camera="quarto"]');
+  if(quarto && now.minute%3===0) quarto.classList.add("live-camera--mimo");
   $("#byteLiveLabel").textContent=scene.label;
   $("#byteLiveTitle").textContent=scene.title;
   $("#byteLiveDescription").textContent=scene.description;

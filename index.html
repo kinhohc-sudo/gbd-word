@@ -180,7 +180,11 @@
   <div class="shell page">
     <div class="section-title"><div><small>Byte ao vivo</small><h1>O que o Byte está fazendo?</h1><p>Uma câmera ligada à rotina semanal do Byte, no horário de São Paulo.</p></div></div>
     <section class="live-card">
-      <div class="live-card__video"><video id="byteLiveVideo" autoplay muted loop playsinline></video><div class="live-empty" id="byteLiveEmpty" hidden><span>CAM 01</span><b>Sala principal</b><small>Nenhuma movimentação detectada</small></div><span class="live-badge"><i></i> AO VIVO</span></div>
+      <div class="live-card__video live-cameras" id="liveCameras">
+        <article class="live-camera live-camera--active" data-camera="sala"><video id="byteLiveVideo" autoplay muted loop playsinline></video><img class="camera-empty-room" src="assets/live/camera-room-empty.png" alt="Sala vazia"><span class="camera-label">CAM 01 · Sala</span><span class="live-badge"><i></i> AO VIVO</span></article>
+        <article class="live-camera" data-camera="estudio"><img class="camera-empty-room" src="assets/live/camera-studio-empty.png" alt="Estúdio vazio"><span class="camera-label">CAM 02 · Estúdio</span><span class="camera-status">Sem movimentação</span></article>
+        <article class="live-camera" data-camera="quarto"><img class="camera-empty-room" src="assets/live/camera-room-empty.png" alt="Quarto vazio"><img class="camera-mimo" id="cameraMimo" src="assets/live/mimo-camera.png" alt="Mimo"><span class="camera-label">CAM 03 · Quarto</span><span class="camera-status">Sinal estável</span></article>
+      </div>
       <div class="live-card__copy"><small id="byteLiveLabel">Rotina do Byte</small><h2 id="byteLiveTitle">Byte está por aqui</h2><p id="byteLiveDescription">Ele está aproveitando um momento tranquilo no quarto.</p><p class="live-note" id="byteLiveSchedule">Agenda local sincronizada com São Paulo.</p></div>
     </section>
   </div>
