@@ -282,7 +282,6 @@ function bindDynamic(){
 function openImage(src){$("#modalImage").src=src;$("#imageModal").classList.add("open")}
 $("#closeImage").onclick=()=>$("#imageModal").classList.remove("open");
 $("#imageModal").onclick=e=>{if(e.target===$("#imageModal"))$("#imageModal").classList.remove("open")};
-$("#changeLiveScene").onclick=()=>{ liveSceneIndex=(liveSceneIndex+1)%liveScenes.length; renderLiveScene(); };
 
 function openTorpedo(){ $("#torpedo").classList.add("open");$("#backdrop").classList.add("open") }
 function closeTorpedo(){ $("#torpedo").classList.remove("open");$("#backdrop").classList.remove("open") }
