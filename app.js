@@ -94,22 +94,49 @@ const gallery = [
 
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
-const liveScenes = [
-  {src:"assets/live/byte-live-idle.mp4",label:"Rotina tranquila",title:"Byte está descansando",description:"Nem toda aventura precisa de pressa. Às vezes, o Byte só está aproveitando um momento calmo."},
-  {src:"assets/live/byte-live-reading.mp4",label:"Hora de ler",title:"Byte está lendo",description:"Ele encontrou uma história interessante e está guardando ideias para contar depois."},
-  {src:"assets/live/byte-live-music.mp4",label:"Som ligado",title:"Byte está curtindo música",description:"Uma pausa com música também faz parte das aventuras do Byte."},
-  {src:"assets/live/byte-live-gaming.mp4",label:"Momento gamer",title:"Byte está jogando",description:"Parece que alguém acabou de comemorar uma vitória no PC."}
-];
-let liveSceneIndex = Math.floor(Math.random() * liveScenes.length);
+const liveScenes = {
+  idle:{src:"assets/live/byte-live-idle.mp4",label:"Rotina tranquila",title:"Byte está descansando",description:"Nem toda aventura precisa de pressa. Agora ele só está aproveitando um momento calmo."},
+  reading:{src:"assets/live/byte-live-reading.mp4",label:"Hora de ler",title:"Byte está lendo",description:"Ele encontrou uma história interessante e está guardando ideias para contar depois."},
+  music:{src:"assets/live/byte-live-music.mp4",label:"Som ligado",title:"Byte está curtindo música",description:"Uma pausa com música também faz parte das aventuras do Byte."},
+  gaming:{src:"assets/live/byte-live-gaming.mp4",label:"Momento gamer",title:"Byte está jogando",description:"A agenda de hoje reservou um tempo para games."},
+  away:{label:"Casa vazia",title:"Byte está fora de casa",description:"A câmera continua ligada na sala, mas o Byte saiu para cumprir a rotina.",empty:true},
+  sleeping:{label:"Modo silencioso",title:"Byte está dormindo",description:"A casa está em silêncio. A câmera da sala permanece ligada, mas o quarto não é transmitido.",empty:true},
+  bathroom:{label:"Pausa de rotina",title:"Byte está no banheiro",description:"A câmera respeita a privacidade dele e mostra apenas a sala vazia.",empty:true},
+  baseball:{label:"Quarta, 9h",title:"Byte está no treino de beisebol",description:"Ele saiu para o treino. A transmissão externa será adicionada quando o vídeo oficial estiver pronto.",empty:true}
+};
+
+function saoPauloNow(){
+  const parts=new Intl.DateTimeFormat("en-US",{timeZone:"America/Sao_Paulo",weekday:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(new Date());
+  const value=type=>parts.find(part=>part.type===type)?.value;
+  return {weekday:value("weekday"),hour:Number(value("hour")),minute:Number(value("minute"))};
+}
+function scheduledLiveScene(){
+  const {weekday,hour,minute}=saoPauloNow();
+  if(hour<7) return {key:"sleeping",schedule:"Rotina noturna · horário de São Paulo"};
+  if(hour===7 && minute<30) return {key:"bathroom",schedule:"Rotina da manhã · horário de São Paulo"};
+  if(weekday==="Wed" && hour===9) return {key:"baseball",schedule:"Quarta-feira · treino de beisebol às 9h"};
+  if(["Mon","Tue","Wed","Thu","Fri"].includes(weekday) && hour>=10 && hour<13) return {key:"away",schedule:"Manhã de dia útil · Byte está fora de casa"};
+  if(weekday==="Tue" && hour>=19 && hour<21) return {key:"gaming",schedule:"Terça-feira · noite de games"};
+  if(hour>=15 && hour<17) return {key:"reading",schedule:"Tarde de leitura · horário de São Paulo"};
+  if(hour>=17 && hour<19) return {key:"music",schedule:"Fim de tarde com música · horário de São Paulo"};
+  if(hour>=20 && hour<22) return {key:"gaming",schedule:"Noite de games · horário de São Paulo"};
+  return {key:"idle",schedule:"Rotina livre · horário de São Paulo"};
+}
 
 function renderLiveScene(){
-  const scene=liveScenes[liveSceneIndex % liveScenes.length];
+  const {key,schedule}=scheduledLiveScene();
+  const scene=liveScenes[key];
   const video=$("#byteLiveVideo");
+  const empty=$("#byteLiveEmpty");
   if(!video)return;
-  video.src=scene.src; video.load(); video.play().catch(()=>{});
+  empty.hidden=!scene.empty;
+  video.hidden=Boolean(scene.empty);
+  if(!scene.empty){ video.src=scene.src; video.load(); video.play().catch(()=>{}); }
+  else { video.pause(); video.removeAttribute("src"); video.load(); }
   $("#byteLiveLabel").textContent=scene.label;
   $("#byteLiveTitle").textContent=scene.title;
   $("#byteLiveDescription").textContent=scene.description;
+  $("#byteLiveSchedule").textContent=schedule;
 }
 
 function toast(message){
