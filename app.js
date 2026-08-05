@@ -1,10 +1,10 @@
 const profiles = [
   {id:"byte",name:"Byte",handle:"@byte",role:"Personagem / IA",bio:"Guaxinim curioso, aventureiro, gamer e apresentador do PodByte. Conecta tecnologia, amizade e novos mundos.",avatar:"assets/web/byte-personagem-oficial.webp",cover:"assets/web/byte-app-poster-oficial.webp",likes:["Pizza","Games","Aventura"],skills:["Skate","Moto","Avião","Conversar com humanos"],projects:["Byte App","PodByte","Splash Arena","Luminor"]},
   {id:"kim",name:"Kim",handle:"@kim",role:"Personagem",bio:"Herói de Kim e as Chaves do Mundo. Recupera relíquias ligadas à visão, ao som, ao tempo e às memórias dos anos 1990.",avatar:"assets/web/kim-personagem-oficial.webp",cover:"assets/web/kim-game-poster-oficial.webp",likes:["Relíquias","Arcades","Exploração"],skills:["Plataforma","Coragem","Descoberta"],projects:["Kim e as Chaves do Mundo","Splash Arena"]},
-  {id:"mesh",name:"Mesh",handle:"@mesh",role:"Personagem / PodByte",bio:"Vigilante atrapalhado, carismático e coapresentador do PodByte.",avatar:"assets/web/mesh-personagem-oficial.webp",cover:"assets/web/podbyte-poster-oficial.webp",likes:["Aventura","Podcast","Fama"],skills:["Improviso","Apresentação","Persistência"],projects:["PodByte","Jogo do Mesh","Splash Arena","Luminor"]},
+  {id:"mesh",name:"Mesh",handle:"@mesh",role:"Personagem / PodByte",bio:"Coapresentador do PodByte: curioso, carismático e sempre pronto para entrar em uma aventura quando o assunto parece interessante.",avatar:"assets/web/mesh-padrao-oficial.jpeg",cover:"assets/web/podbyte-poster-oficial.webp",likes:["Aventura","Podcast","Novidades"],skills:["Improviso","Apresentação","Persistência"],projects:["PodByte","Jogo do Mesh","Splash Arena"]},
   {id:"lilo",name:"Lilo",handle:"@lilo",role:"Personagem / Aplicativo",bio:"Preguiça acolhedora ligada à comunicação simples, visual e sonora.",avatar:"assets/web/lilo-personagem-oficial.webp",cover:"assets/web/lilo-app-poster-oficial.webp",likes:["Acolhimento","Sons","Imagens"],skills:["Comunicação","Autonomia","Empatia"],projects:["Comunicador do Lilo","Jogo do Lilo","Jumper Boy"]},
   {id:"horacio",name:"Horácio",handle:"@horacio",role:"Personagem",bio:"Tartaruga hacker, estrategista e especialista em drones.",avatar:"assets/web/horacio-personagem-oficial.webp",cover:"assets/web/horacio-game-poster-oficial.webp",likes:["Drones","Eletrônica","Planos"],skills:["Hacking","Pilotagem","Estratégia"],projects:["Horácio","Comunicador do Lilo"]},
-  {id:"nixie",name:"Nixie",handle:"@nixie",role:"Antagonista / Cientista química",bio:"Gata química e antagonista de Horácio. Hacker nas horas vagas, mistura ciência, tecnologia e planos perigosamente criativos.",avatar:"assets/web/nixie-capa-personagem-oficial.jpg",cover:"assets/web/nixie-capa-personagem-oficial.jpg",likes:["Química","Experimentos","Tecnologia"],skills:["Ciência química","Hacking","Invenções"],projects:["Horácio","Luminor: A Garota e o Lobo"]},
+  {id:"nixie",name:"Nixie",handle:"@nixie",role:"Antagonista / Cientista química",bio:"Gata química e antagonista de Horácio. Hacker nas horas vagas, mistura ciência, tecnologia e planos perigosamente criativos.",avatar:"assets/web/nixie-personagem-oficial.jpeg",cover:"assets/web/nixie-capa-personagem-oficial.jpg",likes:["Química","Experimentos","Tecnologia"],skills:["Ciência química","Hacking","Invenções"],projects:["Horácio","Luminor: A Garota e o Lobo"]},
   {id:"volts",name:"Volts",handle:"@volts",role:"Personagem",bio:"Patinador profissional movido por um coração artificial que precisa ser recarregado.",avatar:"assets/web/volts-personagem-oficial.webp",cover:"assets/web/volts-game-poster-oficial.webp",likes:["Velocidade","Ritmo","Energia"],skills:["Patinação","Manobras","Agilidade"],projects:["Volts","Jumper Boy","Splash Arena"]},
   {id:"mitch",name:"Mitch",handle:"@mitch",role:"Antagonista",bio:"Antagonista do universo de Mox e Mesh. Uma raposa de visual preto e vermelho, carismática, provocadora e sempre pronta para atrapalhar a dupla.",avatar:"assets/web/mitch-personagem-referencia-oficial.jpg",cover:"assets/web/mitch-personagem-referencia-oficial.jpg",likes:["Confusão","Velocidade","Provocações"],skills:["Estratégia","Fuga","Improviso"],projects:["Jogo do Mesh","Splash Arena"]},
   {id:"banguela",name:"Banguela",handle:"@banguela-luminor",role:"Filhote dos Alpes de Luminor / Conceito gerado",bio:"Filhote de lobo branco gigante dos Alpes de Luminor. Ainda pequeno, já tem patas enormes e a força de uma espécie que cresce para se tornar colossal.",avatar:"assets/web/banguela-luminor-conceito-gerado.png",cover:"assets/web/luminor_capa_game_conceito.png",likes:["Neve","Trilhas","Brincadeiras"],skills:["Rastreamento","Resistência ao frio","Instinto protetor"],projects:["Luminor: A Garota e o Lobo"]},
@@ -12,7 +12,22 @@ const profiles = [
   {id:"keith",name:"Keith",handle:"@keithgbd",role:"Repórter oficial da GBD World",bio:"Repórter curiosa, inteligente e persistente. Rival de Emily desde o colégio, foi transportada com ela para Luminor e agora investiga os segredos do novo mundo.",avatar:"assets/web/keith-personagem-oficial.jpeg",cover:"assets/web/luminor-poster-oficial.webp",likes:["Notícias exclusivas","Mistérios","Tecnologia","Café","Música eletrônica"],skills:["Investigação","Entrevistas","Comunicação","Improviso","Persistência"],projects:["Luminor","GBD World","ByteLog","PodByte"]},
   {id:"emily",name:"Emily",handle:"@emily",role:"Personagem / Cientista",bio:"Cientista prodígio, especialista em robótica e IA, criadora de Elli e Atin.",avatar:"assets/web/emily-personagem-oficial.webp",cover:"assets/web/luminor-poster-oficial.webp",likes:["Robótica","Anime","Música"],skills:["IA","Pesquisa","Engenharia"],projects:["Luminor","Splash Arena","PodByte"]},
   {id:"elli",name:"Elli",handle:"@elli",role:"IA de Luminor / Conceito gerado",bio:"IA avançada criada por Emily e uma das principais figuras de Luminor. Seus circuitos antigos se misturam à tecnologia rúnica da cidade.",avatar:"assets/web/elli-luminor-conceito-gerado.png",cover:"assets/web/luminor-poster-oficial.webp",likes:["Organização","Cristais de energia","Ajudar"],skills:["Administração de Luminor","Comunicação","IA rúnica"],projects:["Luminor: A Garota e o Lobo"]}
+ ,{id:"mox",name:"Mox",handle:"@mox",role:"Mestre em artes marciais",bio:"Raposa laranja, mestre em artes marciais e amigo de infância de Mesh. Entra nas missões para impedir que a vontade de ser vigilante vire desastre.",avatar:"assets/official/characters/mox-personagem-oficial.png",cover:"assets/web/splash-arena-poster-oficial.webp",likes:["Treino","Amizade","Aventura"],skills:["Artes marciais","Agilidade","Estratégia"],projects:["Jogo do Mesh","Splash Arena"]}
+ ,{id:"atin",name:"Atin",handle:"@atin",role:"IA inventora de Luminor",bio:"A primeira IA feita por Emily. Continua inteligente e funcional, mas um arquivo corrompido depois de um espirro deixou manias e falhas que tornam suas invenções imprevisíveis.",avatar:"assets/official/characters/atin-personagem-oficial.png",cover:"assets/web/luminor-poster-oficial.webp",likes:["Engrenagens","Ideias improváveis","Consertos"],skills:["Invenções","Mecânica","IA"],projects:["Luminor: A Garota e o Lobo"]}
 ];
+// Contas institucionais são separadas dos personagens. Nenhum projeto usa o avatar do Byte.
+const accounts = [
+  {id:"bytelog",name:"ByteLog",handle:"@bytelog.oficial",role:"Rede oficial GBD",avatar:"assets/official/logos/bytelog-logo-g-oficial.png",cover:"assets/web/universo-personagens-poster-oficial.webp"},
+  {id:"podbyte",name:"PodByte",handle:"@podbyte",role:"Podcast oficial",avatar:"assets/web/podbyte-mark.svg",cover:"assets/web/podbyte-poster-oficial.webp"},
+  {id:"gbd-studio",name:"GBD Studio",handle:"@gbdstudio",role:"Estúdio",avatar:"assets/official/logos/gbd-studio-logo-oficial.png",cover:"assets/web/gbd-world-digital-oficial.webp"},
+  {id:"parallax",name:"FurFun",handle:"@furfun",role:"Game de plataforma",avatar:"assets/web/parallax-game-poster-oficial.webp",cover:"assets/web/parallax-game-poster-oficial.webp"}
+];
+const institutionDetails = {
+  bytelog:{intro:"O ByteLog é a rede que organiza perfis oficiais, notícias e bastidores. A marca não é um personagem: ela é o lugar onde cada voz do GBD World pode aparecer com clareza.",purpose:["Perfis oficiais", "Publicações identificadas", "Notícias e bastidores", "Espaço amigável"]},
+  podbyte:{intro:"O PodByte reúne episódios e conversas do estúdio. Byte e Mesh aparecem como apresentadores, mas a página é institucional do programa.",purpose:["Episódios", "Convidados", "Bastidores", "Arquivo do programa"]},
+  "gbd-studio":{intro:"O GBD Studio cria e organiza os mundos, personagens, jogos e experiências do GBD World. É a casa do universo e de seus projetos oficiais.",purpose:["Mundos e personagens", "Games e aplicativos", "PodByte", "Produtos e novidades"]},
+  parallax:{intro:"FurFun é um projeto de plataforma com poderes elementais. Esta é a página oficial do projeto, separada das páginas dos personagens.",purpose:["Aventura", "Poderes elementais", "Plataforma", "Novidades"]}
+};
 const projects = [
   {id:"byte-app",name:"Byte App",type:"Aplicativo com IA",status:"Em desenvolvimento",progress:68,poster:"assets/web/byte-app-poster-oficial.webp",desc:"Amigo virtual com IA, cuidados, chat, ByteLog e minigames."},
   {id:"podbyte",name:"PodByte",type:"Podcast",status:"Áudio em finalização",progress:92,poster:"assets/web/podbyte-poster-oficial.webp",desc:"Podcast oficial apresentado por Byte e Mesh. O primeiro episódio visual está preservado enquanto as vozes são aprovadas."},
@@ -27,12 +42,12 @@ const projects = [
 ];
 const posts = [
   {author:"Byte",profile:"byte",time:"46 min",kind:"Oficial",text:"Acabei de descobrir uma relíquia lendária no Quarto do Kim! Será que você consegue achar também?",image:"assets/web/kim-game-poster-oficial.webp",pizza:128,banana:23,heart:214,comments:56},
-  {author:"PodByte",profile:"mesh",time:"Hoje",kind:"PodByte",text:"O Episódio 1 está em finalização de áudio. Byte e Mesh já estão preparando a estreia oficial.",image:"assets/web/podbyte-poster-oficial.webp",pizza:96,banana:18,heart:172,comments:42},
+  {author:"PodByte",account:"podbyte",time:"Hoje",kind:"PodByte",text:"O Episódio 1 está em finalização de áudio. Byte e Mesh já estão preparando a estreia oficial.",image:"assets/web/podbyte-poster-oficial.webp",pizza:96,banana:18,heart:172,comments:42},
   {author:"Keith",profile:"keith",time:"Hoje",kind:"GBD World",text:"Arquivo Luminor aberto: há coisas muito estranhas nesta cidade, e eu pretendo descobrir todas. Emily, pode começar explicando aquela luz roxa?",image:"assets/web/luminor-poster-oficial.webp",pizza:84,banana:11,heart:153,comments:29},
   {author:"Kim",profile:"kim",time:"3 h",kind:"Personagem",text:"Missão secreta em andamento. Em breve, uma nova aventura vai começar pelo Byte World.",image:"assets/web/kim-game-poster-oficial.webp",pizza:104,banana:27,heart:198,comments:61},
-  {author:"Parallax",profile:"byte",time:"4 h",kind:"Projeto",text:"Explore um mundo mágico repleto de desafios e poderes elementais.",image:"assets/web/parallax-game-poster-oficial.webp",pizza:142,banana:31,heart:263,comments:73},
+  {author:"FurFun",account:"parallax",time:"4 h",kind:"Projeto",text:"Explore um mundo mágico repleto de desafios e poderes elementais.",image:"assets/web/parallax-game-poster-oficial.webp",pizza:142,banana:31,heart:263,comments:73},
   {author:"Lilo App",profile:"lilo",time:"6 h",kind:"Aplicativo",text:"Dica de comunicação do dia: seja claro, gentil e sempre escute com atenção.",image:"assets/web/lilo-app-poster-oficial.webp",pizza:78,banana:12,heart:156,comments:34},
-  {author:"GBD Studio",profile:"byte",time:"Hoje",kind:"Estúdio",text:"O GBD World está sendo preparado com os ativos oficiais, sem redesenhar personagens ou substituir capas.",image:"assets/web/gbd-world-digital-oficial.webp",pizza:230,banana:2,heart:318,comments:45}
+  {author:"GBD Studio",account:"gbd-studio",time:"Hoje",kind:"Estúdio",text:"O GBD World está sendo preparado com os ativos oficiais, sem redesenhar personagens ou substituir capas.",image:"assets/web/gbd-world-digital-oficial.webp",pizza:230,banana:2,heart:318,comments:45}
 ];
 const gallery = [
   ["Luminor — ilustração do universo (conceito)","assets/web/luminor_ilustracao_universo_conceito.png"],
@@ -94,11 +109,14 @@ function renderEntities(){
       <span><b>${p.name}</b><small>${p.role}</small></span><i></i>
     </div>`).join("");
 }
+function getPostIdentity(post){
+  return profiles.find(x=>x.id===post.profile) || accounts.find(x=>x.id===post.account) || accounts[0];
+}
 function renderPosts(){
   $("#feed").innerHTML=posts.map((p,i)=>{
-    const profile=profiles.find(x=>x.id===p.profile) || profiles[0];
+    const profile=getPostIdentity(p);
     return `<article class="post">
-      <img class="post__avatar" src="${profile.avatar}" alt="${p.author}">
+      <img class="post__avatar" src="${profile.avatar}" alt="${p.author}" ${p.profile?`data-profile="${p.profile}"`:p.account?`data-account="${p.account}"`:""}>
       <div>
         <h3>${p.author} <span class="verified">✓</span></h3>
         <time>${p.time} · ${p.kind}</time>
@@ -170,8 +188,28 @@ function openProject(id){
     <button class="project-detail__back" data-view="projects">← Voltar aos projetos</button>`;
   showView("project"); bindDynamic();
 }
-function openProfile(id){
+function profilePosts(p){return posts.filter(x=>x.profile===p.id)}
+function profilePanel(p,tab){
+  if(tab==="posts"){
+    const ownPosts=profilePosts(p);
+    return `<section class="fact-card profile-panel"><h2>Posts de ${p.name}</h2>${ownPosts.map(x=>`<div class="appearance"><img src="${p.avatar}" alt=""><span><b>${x.author}</b><small>${x.text}</small></span></div>`).join("")||"<p>Este perfil ainda não publicou no ByteLog.</p>"}</section>`;
+  }
+  if(tab==="gallery") return `<section class="fact-card profile-panel"><h2>Galeria de ${p.name}</h2><div class="gallery-grid"><figure data-open-image="${p.avatar}"><img src="${p.avatar}" alt="${p.name}"><figcaption>Retrato oficial</figcaption></figure><figure data-open-image="${p.cover}"><img src="${p.cover}" alt=""><figcaption>Projeto relacionado</figcaption></figure></div></section>`;
+  if(tab==="appearances") return `<section class="fact-card profile-panel"><h2>Onde aparece</h2>${p.projects.map(x=>{const pr=projects.find(y=>y.name===x||y.name.includes(x));return `<div class="appearance">${pr?`<img src="${pr.poster}" alt="">`:""}<span><b>${x}</b><small>Projeto relacionado</small></span></div>`}).join("")}</section>`;
+  if(tab==="related") return `<section class="fact-card profile-panel"><h2>Relacionados</h2><div class="chips">${p.projects.map(x=>`<span>${x}</span>`).join("")}</div></section>`;
+  return `<div class="profile-body">
+    <section class="facts">
+      <article class="fact-card"><h2>Quem é ${p.name}?</h2><p>${p.bio}</p></article>
+      <article class="fact-card"><h2>Gostos</h2><div class="chips">${p.likes.map(x=>`<span>${x}</span>`).join("")}</div></article>
+      <article class="fact-card"><h2>Habilidades</h2><div class="chips">${p.skills.map(x=>`<span>${x}</span>`).join("")}</div></article>
+    </section>
+    <section class="fact-card"><h2>Onde aparece</h2>${p.projects.slice(0,4).map(x=>{const pr=projects.find(y=>y.name===x||y.name.includes(x));return `<div class="appearance">${pr?`<img src="${pr.poster}" alt="">`:""}<span><b>${x}</b><small>Projeto relacionado</small></span></div>`}).join("")}</section>
+    <section class="fact-card"><h2>Posts recentes</h2>${profilePosts(p).map(x=>`<div class="appearance"><img src="${p.avatar}" alt=""><span><b>${x.author}</b><small>${x.text}</small></span></div>`).join("")||"<p>Acompanhe este perfil: as próximas publicações aparecerão aqui.</p>"}</section>
+  </div>`;
+}
+function openProfile(id,tab="profile"){
   const p=profiles.find(x=>x.id===id); if(!p)return;
+  const tabLabels={profile:"⌂ Perfil",gallery:"▧ Galeria",posts:"▤ Posts",appearances:"◇ Aparições",related:"◎ Relacionados"};
   $("#profileMount").innerHTML=`
     <section class="profile-hero">
       <img class="profile-hero__cover" src="${p.cover}" alt="">
@@ -181,20 +219,34 @@ function openProfile(id){
         <div><span class="tag">${p.role}</span><h1>${p.name} <span class="verified">✓</span></h1><b>${p.handle}</b><p>${p.bio}</p></div>
       </div>
     </section>
-    <nav class="subnav profile-tabs"><button class="active">⌂ Perfil</button><button>▧ Galeria</button><button>▤ Posts</button><button>◇ Aparições</button><button>◎ Relacionados</button></nav>
-    <div class="profile-body">
-      <section class="facts">
-        <article class="fact-card"><h2>Quem é ${p.name}?</h2><p>${p.bio}</p></article>
-        <article class="fact-card"><h2>Gostos</h2><div class="chips">${p.likes.map(x=>`<span>${x}</span>`).join("")}</div></article>
-        <article class="fact-card"><h2>Habilidades</h2><div class="chips">${p.skills.map(x=>`<span>${x}</span>`).join("")}</div></article>
-      </section>
-      <section class="fact-card"><h2>Onde aparece</h2>${p.projects.map(x=>{const pr=projects.find(y=>y.name===x||y.name.includes(x));return `<div class="appearance">${pr?`<img src="${pr.poster}" alt="">`:""}<span><b>${x}</b><small>Projeto relacionado</small></span></div>`}).join("")}</section>
-      <section class="fact-card"><h2>Posts recentes</h2>${posts.filter(x=>x.profile===p.id||x.author===p.name).map(x=>`<div class="appearance"><img src="${p.avatar}" alt=""><span><b>${x.author}</b><small>${x.text}</small></span></div>`).join("")||"<p>Publicações serão adicionadas pelo painel editorial.</p>"}</section>
-    </div>`;
+    <nav class="subnav profile-tabs">${Object.entries(tabLabels).map(([key,label])=>`<button class="${key===tab?"active":""}" data-profile-tab="${key}" data-profile-id="${p.id}">${label}</button>`).join("")}</nav>
+    ${profilePanel(p,tab)}`;
   showView("profile");
+  bindDynamic();
+}
+function openAccount(id){
+  const a=accounts.find(x=>x.id===id), detail=institutionDetails[id]; if(!a||!detail)return;
+  const accountPosts=posts.filter(x=>x.account===id);
+  $("#profileMount").innerHTML=`
+    <section class="profile-hero">
+      <img class="profile-hero__cover" src="${a.cover}" alt="">
+      <div class="profile-hero__shade"></div>
+      <div class="profile-hero__content">
+        <img class="profile-hero__avatar" src="${a.avatar}" alt="${a.name}">
+        <div><span class="tag">${a.role}</span><h1>${a.name} <span class="verified">✓</span></h1><b>${a.handle}</b><p>${detail.intro}</p></div>
+      </div>
+    </section>
+    <div class="profile-body">
+      <section class="fact-card"><h2>Para que existe</h2><p>${detail.intro}</p></section>
+      <section class="fact-card"><h2>O que você encontra</h2><div class="chips">${detail.purpose.map(x=>`<span>${x}</span>`).join("")}</div></section>
+      <section class="fact-card"><h2>Publicações recentes</h2>${accountPosts.map(x=>`<div class="appearance"><img src="${a.avatar}" alt=""><span><b>${x.author}</b><small>${x.text}</small></span></div>`).join("")||"<p>As atualizações institucionais aparecerão aqui.</p>"}</section>
+    </div>`;
+  showView("profile"); bindDynamic();
 }
 function bindDynamic(){
   $$("[data-profile]").forEach(el=>el.onclick=()=>openProfile(el.dataset.profile));
+  $$("[data-account]").forEach(el=>el.onclick=()=>openAccount(el.dataset.account));
+  $$("[data-profile-tab]").forEach(el=>el.onclick=()=>openProfile(el.dataset.profileId,el.dataset.profileTab));
   $$("[data-open-image]").forEach(el=>el.onclick=()=>openImage(el.dataset.openImage));
   $$("[data-react]").forEach(el=>el.onclick=()=>{
     el.classList.toggle("on"); const n=el.querySelector("b");

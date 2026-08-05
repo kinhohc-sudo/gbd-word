@@ -28,7 +28,9 @@
     </nav>
     <div class="topbar__actions">
       <button class="search" id="searchButton">Buscar no site... <span>⌕</span></button>
-      <button class="icon-button" id="torpedoButton" title="Torpedo">◌</button>
+      <button class="icon-button icon-button--torpedo" id="torpedoButton" title="Abrir Torpedo" aria-label="Abrir Torpedo">
+        <img src="assets/official/logos/torpedo-logo-oficial.png" alt="">
+      </button>
     </div>
   </div>
 </header>
@@ -37,15 +39,17 @@
 <section class="view active" id="view-bytelog">
   <div class="shell page">
     <section class="network-cover">
-      <img class="network-cover__bg" src="assets/web/universo-personagens-poster-oficial.webp" alt="">
+      <div class="network-cover__bg network-cover__bg--bytelog" aria-hidden="true"></div>
       <div class="network-cover__shade"></div>
       <img class="network-cover__logo" src="assets/official/logos/bytelog-logo-g-oficial.png" alt="Logo oficial ByteLog">
       <div class="network-cover__identity">
-        <img class="network-avatar" src="assets/web/byte-personagem-oficial.webp" alt="Byte">
+        <div class="network-avatar network-avatar--brand" aria-label="Logo do ByteLog">
+          <img src="assets/official/logos/bytelog-logo-g-oficial.png" alt="Logo do ByteLog">
+        </div>
         <div>
           <div class="network-title"><h1>ByteLog</h1><span>✓</span></div>
           <strong>@bytelog.oficial</strong>
-          <p>Rede social oficial do universo GBD. Perfis, projetos, bastidores e novas aventuras.</p>
+          <p>Uma rede oficial para acompanhar personagens, projetos, notícias e bastidores com identidade própria.</p>
         </div>
       </div>
       <div class="cover-phrase">Converse, cuide,<br>jogue e viva aventuras!</div>
@@ -57,19 +61,19 @@
       <button>▤ Publicações</button>
       <button>◇ Novidades</button>
       <button>▧ Mídia</button>
-      <button id="torpedoTab">▱ Torpedo</button>
+      <button id="torpedoTab" class="torpedo-tab"><img src="assets/official/logos/torpedo-logo-oficial.png" alt=""> Torpedo</button>
     </nav>
 
     <div class="bytelog-grid">
       <aside class="sidebar sidebar--left">
         <article class="panel about">
           <h2>Sobre o ByteLog</h2>
-          <p>O ByteLog é a rede social oficial do universo GBD, onde amigos se conectam, compartilham aventuras e acompanham tudo o que acontece nos mundos dos nossos projetos.</p>
+          <p>O ByteLog organiza as vozes do GBD World em um só lugar. Aqui, cada personagem e cada projeto publica com sua própria identidade.</p>
           <ul>
-            <li>◎ Comunidade oficial do universo GBD</li>
-            <li>▣ Novidades, eventos e bastidores</li>
-            <li>◇ Conteúdo de jogos, apps e tecnologia</li>
-            <li><span class="status-dot"></span> Seguro, amigável e para todas as idades</li>
+            <li>◎ Perfis oficiais e reconhecíveis</li>
+            <li>▣ Notícias, episódios e bastidores</li>
+            <li>◇ Projetos, jogos, apps e tecnologia</li>
+            <li><span class="status-dot"></span> Espaço seguro e amigável para todas as idades</li>
           </ul>
           <button class="slogan-card" data-view="home">
             <img src="assets/official/logos/bytelog-logo-g-oficial.png" alt="">
@@ -95,8 +99,8 @@
       <aside class="sidebar sidebar--right">
         <article class="panel">
           <div class="panel-heading"><h2>☆ Destaques</h2><button>Ver todos</button></div>
-          <button class="feature" data-profile="byte">
-            <img src="assets/web/byte-app-poster-oficial.webp" alt="">
+          <button class="feature" data-account="bytelog">
+            <img src="assets/official/logos/bytelog-logo-g-oficial.png" alt="Logo ByteLog">
             <span><b>Bem-vindo ao ByteLog!</b><small>O lugar oficial para acompanhar o universo GBD.</small></span>
           </button>
           <div class="dots"><i class="active"></i><i></i><i></i><i></i></div>
