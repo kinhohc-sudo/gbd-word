@@ -55,7 +55,7 @@ const projects = [
   {id:"parallax",name:"Parallax",type:"Game",status:"90%",progress:90,poster:"assets/web/parallax-game-poster-oficial.webp",desc:"FurFun, um slime, ganha poderes conforme o que come: fogo, gelo, água, neon e uma forma supergrudenta."},
   {id:"kim",name:"Kim e as Chaves do Mundo",type:"Game",status:"Refinamento técnico",progress:95,poster:"assets/web/kim-game-poster-oficial.webp",desc:"Plataforma do Kim, em fase final de refinamento antes do lançamento. Também integra Splash Arena."},
   {id:"caramelo",name:"Caramelo",type:"Game de plataforma",status:"Em desenvolvimento",progress:0,poster:"assets/web/caramelo-game-poster-oficial.webp",desc:"Caramelo atravessa mercados e lojas para levar comida aos filhotinhos e ajudá-los a sobreviver."},
-  {id:"horacio",name:"Horácio",type:"Game de plataforma",status:"80%",progress:80,poster:"assets/web/horacio-game-poster-oficial.webp",desc:"Horácio, hacker fissurado em drones, usa suas invenções para resolver todos os puzzles da aventura."},
+  {id:"horacio",name:"Horácio",type:"Game de plataforma",status:"Jogar no navegador",progress:100,poster:"games/horacio/cover.png",playUrl:"/games/horacio/",desc:"Explore 25 fases, descubra segredos e resolva puzzles com Horácio e seu drone. Uma aventura do bosque ao espaço para salvar o vale."},
   {id:"volts",name:"Volts",type:"Game",status:"Em desenvolvimento",progress:45,poster:"assets/web/volts-game-poster-oficial.webp",desc:"Velocidade, ritmo e coração."},
   {id:"splash-arena",name:"Luminor: Splash Arena",type:"Game",status:"Pronto para apresentação",progress:100,poster:"assets/web/splash-arena-poster-oficial.webp",desc:"Batalhas de tinta, velocidade e caos divertido."},
   {id:"luminor",name:"Luminor: A Garota e o Lobo",type:"Universo / Game",status:"Em conceito",progress:20,poster:"assets/web/luminor-poster-oficial.webp",officialCover:"assets/web/luminor_capa_game_conceito.png",officialCoverLabel:"Capa conceitual do game",desc:"Uma aventura no universo de Luminor, cidade de ciência, imaginação e IA, ao lado de Banguela: filhote de lobo branco gigante dos Alpes de Luminor."},
@@ -199,6 +199,7 @@ function projectCard(p){
       <h3>${p.name}</h3><p>${p.desc}</p>
       <div class="progress"><i style="width:${p.progress}%"></i></div>
       <p style="margin-top:8px">${p.status}</p>
+      ${p.playUrl ? `<a class="primary" href="${p.playUrl}" onclick="event.stopPropagation()">Jogar agora</a>` : ""}
     </div>
   </article>`;
 }
@@ -237,7 +238,7 @@ function openProject(id){
     <section class="project-detail__hero">
       <img src="${p.poster}" alt="">
       <div class="project-detail__shade"></div>
-      <div class="project-detail__copy"><span class="tag">${p.type}</span><h1>${p.name}</h1><p>${p.desc}</p><div class="project-detail__status"><b>${p.status}</b><div class="progress"><i style="width:${p.progress}%"></i></div></div></div>
+      <div class="project-detail__copy"><span class="tag">${p.type}</span><h1>${p.name}</h1><p>${p.desc}</p><div class="project-detail__status"><b>${p.status}</b><div class="progress"><i style="width:${p.progress}%"></i></div></div>${p.playUrl ? `<a class="primary" href="${p.playUrl}">Jogar agora</a>` : ""}</div>
     </section>
     <div class="project-detail__body">
       <section class="fact-card"><small>Ficha oficial</small><h2>Sobre o projeto</h2><p>${p.desc}</p><p class="project-detail__note">A arte de apresentação do ByteLog e a capa do game podem ser diferentes: cada uma cumpre uma função no universo.</p></section>

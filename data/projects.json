@@ -48,10 +48,11 @@
     "id": "horacio",
     "name": "Horácio",
     "type": "Game",
-    "status": "30%",
-    "progress": 30,
-    "poster": "assets/web/horacio-game-poster-oficial.webp",
-    "desc": "A aventura do mestre dos drones."
+    "status": "Jogar no navegador",
+    "progress": 100,
+    "poster": "games/horacio/cover.png",
+    "desc": "Explore 25 fases, descubra segredos e resolva puzzles com Horácio e seu drone.",
+    "playUrl": "/games/horacio/"
   },
   {
     "id": "volts",
