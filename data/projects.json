@@ -64,6 +64,16 @@
     "desc": "Velocidade, ritmo e coração."
   },
   {
+    "id": "splash-ball",
+    "name": "Splash Ball",
+    "type": "Game de esporte",
+    "status": "Jogar no navegador",
+    "progress": 100,
+    "poster": "games/splash-ball/cover.png",
+    "playUrl": "/games/splash-ball/",
+    "desc": "Escolha seu clube e dispute partidas na arena. Controle ou teclado, com mapeamento nas opções."
+  },
+  {
     "id": "splash-arena",
     "name": "Luminor: Splash Arena",
     "type": "Game",
