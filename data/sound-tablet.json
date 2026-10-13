@@ -1,0 +1,2680 @@
+{
+  "schema": "lilo.media.catalog/v1",
+  "title": "Sound Tablet",
+  "date": "2026-10-13",
+  "tracks": [
+    {
+      "id": "track-0001",
+      "title": "Inesquecível",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0001.mp3",
+      "durationSeconds": 211.56,
+      "bytes": 4650861,
+      "sha256": "3fd7c5ee00223b864cbc63d21ec23aa68500895672ed7a5c1d45c9048692f5a0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0002",
+      "title": "(Pra que Chorar) (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0002.mp3",
+      "durationSeconds": 177.96,
+      "bytes": 3943677,
+      "sha256": "6ffd2e52d8c248d449bb0855e9d07e9931a1dc76e11b03a6ab05745789e0a48b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0003",
+      "title": "(Pra que Chorar)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0003.mp3",
+      "durationSeconds": 194.96,
+      "bytes": 4187949,
+      "sha256": "415804629646141aba6072553b21a6364ee8a865de15b4c5605a9eb2a990d65c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0004",
+      "title": "(Presunçosa) (",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0004.mp3",
+      "durationSeconds": 286.08,
+      "bytes": 6799317,
+      "sha256": "99556d3b3fb6b24b4d805c002c9c5c01b2bf4de2a3ba87d6291aef1f653a8509",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0005",
+      "title": "(invalid)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0005.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5951229,
+      "sha256": "95722f16e5aa15254d98170a4b8e45f8cae57f2a5a432ea1e8c28428baaf1df6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0006",
+      "title": "02 Amigo Rival  (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0006.mp3",
+      "durationSeconds": 255.16,
+      "bytes": 5401005,
+      "sha256": "ebddd48b77746b807329e8ec57edffe559d2a6fe3fd3218b1eb0e3bbe5799e35",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0007",
+      "title": "02 Amigo Rival  (2)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0007.mp3",
+      "durationSeconds": 243.44,
+      "bytes": 5463117,
+      "sha256": "8058a53664a72f917f0c662e12c26093f7b512f95fd2e80309bab7c21a3a6d3d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0008",
+      "title": "02 Amigo Rival",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0008.mp3",
+      "durationSeconds": 243.44,
+      "bytes": 5483842,
+      "sha256": "ac559769fa0b45cbf7b799924a3b3ebf4c17a659bb7145854197f1f29dba68f0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0009",
+      "title": "03 Trecão -",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0009.mp3",
+      "durationSeconds": 214.32,
+      "bytes": 5258902,
+      "sha256": "c8afb9411c95077e1bce1c96ff119501457e9a5ec40be25326e6c0ad6791dc66",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0010",
+      "title": "04 My Dog Skip (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0010.mp3",
+      "durationSeconds": 97.8,
+      "bytes": 2241532,
+      "sha256": "393add8f693033cf3f9a03d77125716000da0446feb879b877f897d252cedcac",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0011",
+      "title": "05 O Peso da Vida",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0011.mp3",
+      "durationSeconds": 212.24,
+      "bytes": 4771379,
+      "sha256": "a86eb4dec9f8697927b187756811774bf65b65c335757080d5c3fa9672cd7468",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0012",
+      "title": "07 Contos de Fadas (Cover) (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0012.mp3",
+      "durationSeconds": 263.16,
+      "bytes": 5708301,
+      "sha256": "dcfec92305b2aab73fbf2e22069a50ea63417fb5b5fc0f4793e176e65ca61dbb",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0013",
+      "title": "07 Contos de Fadas (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0013.mp3",
+      "durationSeconds": 263.16,
+      "bytes": 5720542,
+      "sha256": "60ea302c4f8bebe45612c0b6e4b43f01df759b7d8cc14f877ad9149a4475e232",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0014",
+      "title": "07 Às Vezes",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0014.mp3",
+      "durationSeconds": 193.52,
+      "bytes": 4671405,
+      "sha256": "8e3a3b4be1c31387a4d20ba5afdcaa8a8519a8372e45e14fa8d3bdcbbe5a91b2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0015",
+      "title": "08 Indecisão (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0015.mp3",
+      "durationSeconds": 227.72,
+      "bytes": 5261181,
+      "sha256": "c960845994dd9b82bfd97516ac54639febed268267af66909163faf19ee1816b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0016",
+      "title": "10.000 perdões",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0016.mp3",
+      "durationSeconds": 158.0,
+      "bytes": 3759076,
+      "sha256": "f39014744e97f3092acb86f5b17d951563774e92397e468c0b3479d335e4a0de",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0017",
+      "title": "1000 promessas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0017.mp3",
+      "durationSeconds": 242.76,
+      "bytes": 5235580,
+      "sha256": "2bd70977c5d7d8c0412be848f57ec078e87b6be99d9aba2681f8716f27dff3f4",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0018",
+      "title": "12 Esperança (Pra que Chorar) (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0018.mp3",
+      "durationSeconds": 179.6,
+      "bytes": 4049373,
+      "sha256": "11b0c01b06d4f8cb48f93837b999ee227033055177d6d627cee4bdfea7a0b360",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0019",
+      "title": "13 Mini - Chicken (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0019.mp3",
+      "durationSeconds": 213.32,
+      "bytes": 5052598,
+      "sha256": "754ba5aa0efd0bc27aade6dc5271c8e797c88007a63047a1cbf0b6b7d9291dad",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0020",
+      "title": "13 Mini - Chicken (emo)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0020.mp3",
+      "durationSeconds": 163.4,
+      "bytes": 3530807,
+      "sha256": "29b18097a76374f75f1b6adada5f28d07a30e5599f4a9d9ff94b9a4c1b62455c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0021",
+      "title": "13 Mini - ticken(hardcore)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0021.mp3",
+      "durationSeconds": 143.92,
+      "bytes": 3095456,
+      "sha256": "e43531b0b8952e2ceda027e6cfd991b432ed76b762bfd95fe346f4ca089108bf",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0022",
+      "title": "18 Refúgio",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0022.mp3",
+      "durationSeconds": 144.0,
+      "bytes": 3268893,
+      "sha256": "80abd3ed69103bbd5f71cc35cb2cb4d06994142b3ee595bbd89b555d899e5660",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0023",
+      "title": "1990",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0023.mp3",
+      "durationSeconds": 174.15,
+      "bytes": 4983020,
+      "sha256": "f766cf2491271616a6d93e275e611563da6c245fa833ee62569a6086aa8f02f6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0024",
+      "title": "A Distância  (Remastered)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0024.mp3",
+      "durationSeconds": 202.68,
+      "bytes": 4797965,
+      "sha256": "a2885aef3254af54e25dbda180376384dc91d98a88b8732222c7df9f00d42cec",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0025",
+      "title": "A VIDA É UM SOPRO",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0025.mp3",
+      "durationSeconds": 479.36,
+      "bytes": 10477422,
+      "sha256": "982cd12bcda4b8c3506ccd15e609234787eed6bbd9cdd850e6078405c8661201",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0026",
+      "title": "A alma se rebela",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0026.mp3",
+      "durationSeconds": 201.66,
+      "bytes": 8068937,
+      "sha256": "b0ee89d07595d76e60e9195fd08c8c8a31ba9725d3078c5d4c70dc33eb8f38f9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0027",
+      "title": "A noite e Você",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0027.mp3",
+      "durationSeconds": 438.76,
+      "bytes": 10258811,
+      "sha256": "d4e356d0dfff39dd5ec6a74a342a45a30ce3b7d77d66b583ac9edad43b31d4a5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0028",
+      "title": "A paisagem me ensina",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0028.mp3",
+      "durationSeconds": 161.28,
+      "bytes": 3905708,
+      "sha256": "76712cf0b7706a51df11739c52ea9c4e657d4b569502bb7ba154f20d11f37fb1",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0029",
+      "title": "A pluma e o vento",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0029.mp3",
+      "durationSeconds": 243.92,
+      "bytes": 5548912,
+      "sha256": "37f0b21440eb0941873cdfb70b133923408cc444e92c0311498031214aff5ecd",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0030",
+      "title": "A velha estrada",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0030.mp3",
+      "durationSeconds": 320.6,
+      "bytes": 7674751,
+      "sha256": "16f192536dd1bc174cf45c62a3ed9fcb84479d223d2266cc905667c4dffe372d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0031",
+      "title": "A vida não espera",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0031.mp3",
+      "durationSeconds": 188.48,
+      "bytes": 4435581,
+      "sha256": "9b0c32ef3f28ca62e085b9e24be1af4e1b421c2ea010d78beabeb5358461e46f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0032",
+      "title": "A vida pede calma mp3",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0032.mp3",
+      "durationSeconds": 309.2,
+      "bytes": 6972789,
+      "sha256": "a3bcb8f1ab07ecae58a2db4fdc972ee92ce60c43f6bc1f562a5790a85c7f345a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0033",
+      "title": "A vida pede calma",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0033.mp3",
+      "durationSeconds": 309.2,
+      "bytes": 6953013,
+      "sha256": "e4dd7f7d3f235a2b2045eff366c9dab7bddacc5423492008e64d92a0c784e19a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0034",
+      "title": "A vida pede paciência",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0034.mp3",
+      "durationSeconds": 289.76,
+      "bytes": 6384237,
+      "sha256": "9489c035147d4edaf17679b33c2f0a6b57efc3559061adf70320a09cfddd9516",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0035",
+      "title": "A vida pede paciência",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0035.mp3",
+      "durationSeconds": 289.76,
+      "bytes": 6370029,
+      "sha256": "4084b4a54a721c60d439d3ce113a0c8cd4addfe0178b3b6f56705603c85d59e9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0036",
+      "title": "Abraço que cura",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0036.mp3",
+      "durationSeconds": 177.52,
+      "bytes": 4213656,
+      "sha256": "3d07bb1f4d305faad530ce393dadad2b85527938e09de5d8560cc3d8f4047f58",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0037",
+      "title": "Aceita ou se opõe",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0037.mp3",
+      "durationSeconds": 199.56,
+      "bytes": 4790637,
+      "sha256": "1c857e7be21c47cfc9a4d3a0e6cc42d6e76c0fdc7c465408e35f8bdf6929e02d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0038",
+      "title": "Agora sim",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0038.mp3",
+      "durationSeconds": 198.8,
+      "bytes": 4772781,
+      "sha256": "c34027938f8474d5713bb0bf525d49ffaaefd38e27d7c05fb40f501263963fba",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0039",
+      "title": "Ah",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0039.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5761197,
+      "sha256": "d49a83559c53e3744e1f580d7c29e346c006f03196104d0873a374d623494bad",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0040",
+      "title": "Ainda Bem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0040.mp3",
+      "durationSeconds": 163.46,
+      "bytes": 6540599,
+      "sha256": "22a1d58310811c45fbb61abf4c646b09875886e750ef2e59aebfef04a731f42b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0041",
+      "title": "Alcance o céu (Cover) (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0041.mp3",
+      "durationSeconds": 288.24,
+      "bytes": 6323014,
+      "sha256": "b7dc0ef9ad52bf5292af770bcd2a6aac40466cc7978715f47187cda9c1445b49",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0042",
+      "title": "Alcance o céu",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0042.mp3",
+      "durationSeconds": 320.64,
+      "bytes": 7660293,
+      "sha256": "1e039e9512f23c7cf6057f85365473d0bab080f8b52c735e667002187ddcb88b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0043",
+      "title": "Amar Mais",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0043.mp3",
+      "durationSeconds": 212.53,
+      "bytes": 5820885,
+      "sha256": "30d9efbd9266f4f9c7de04c99b655bfbab246702be8f066c4aaaa1fadf38a650",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0044",
+      "title": "Amo meu Playstation (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0044.mp3",
+      "durationSeconds": 153.12,
+      "bytes": 3677347,
+      "sha256": "3b81cb60f88dc3b443c420f617c18446f2e9d991af03d8f6fc3b32a5fcd224eb",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0045",
+      "title": "Amor Inesquecível(numeral) (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0045.mp3",
+      "durationSeconds": 249.88,
+      "bytes": 5568237,
+      "sha256": "a6c28293541bfff9a8f8c9b24891144d38c52dffd5065c954d5bb286c4644ec9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0046",
+      "title": "Amor Inesquecível(numeral)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0046.mp3",
+      "durationSeconds": 249.88,
+      "bytes": 5588165,
+      "sha256": "4206c474c96f5a7cf806e913d99570f8078648bc8ffbcee70cc6744a8b9ef56c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0047",
+      "title": "Amor Inesquecível",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0047.mp3",
+      "durationSeconds": 211.56,
+      "bytes": 4665095,
+      "sha256": "4663c90a8dfbe0e400a9c222d596f48260b34de2ea2e9787b26fb80e67ea18d6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0048",
+      "title": "Anjo 2",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0048.mp3",
+      "durationSeconds": 97.0,
+      "bytes": 2329389,
+      "sha256": "b7ef052442efa05f8551e4289611d7abfdfdbe674017a0df3135b5bff5a7cc3a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0049",
+      "title": "Anjo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0049.mp3",
+      "durationSeconds": 85.0,
+      "bytes": 2041389,
+      "sha256": "9955a117f37f083069f5742875cb572d905175f94b82ed503f03ebce52d2959d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0050",
+      "title": "Arquivo Enviado (acústico)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0050.mp3",
+      "durationSeconds": 156.0,
+      "bytes": 3452772,
+      "sha256": "aa48a8cddab9835099082ca93a044595d96b95c58a5c42cf5ce09fb4e6088ead",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0051",
+      "title": "Atemporal",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0051.mp3",
+      "durationSeconds": 285.96,
+      "bytes": 6906751,
+      "sha256": "c3bf9df019cd3907a746ba029bc55c30bc03c570dce77ba09a4f4e9a4d78ed92",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0052",
+      "title": "Até quando",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0052.mp3",
+      "durationSeconds": 239.92,
+      "bytes": 5470225,
+      "sha256": "5699ae840019995fbf5f15bc663032d74934c375dc5c7222322b674fd0b6982b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0053",
+      "title": "Auto-Estima",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0053.mp3",
+      "durationSeconds": 143.12,
+      "bytes": 3154701,
+      "sha256": "fe06ac3771d6d2ccad4d2b54a8b7a4268570c455d29e7df44cf094f7170d24f2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0054",
+      "title": "Automático",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0054.mp3",
+      "durationSeconds": 141.0,
+      "bytes": 3385197,
+      "sha256": "ac8a3d7e06cfa6d0d3864afce3ac995dd825eced0cccb98c72eefddea1f5d227",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0055",
+      "title": "Avante! Testemunhas Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0055.mp3",
+      "durationSeconds": 177.84,
+      "bytes": 4212875,
+      "sha256": "233154ab9ecc129d2f3a604e77b7b2fe9892ae47e3de84f87346af00fa05d25e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0056",
+      "title": "Aí mamãe",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0056.mp3",
+      "durationSeconds": 212.0,
+      "bytes": 5089581,
+      "sha256": "56607932f3f1f091897c1bac7c85cd7092dbc91daf3eaac7bf8b640598630c10",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0057",
+      "title": "Barro em pratos de porcelana",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0057.mp3",
+      "durationSeconds": 448.76,
+      "bytes": 10042413,
+      "sha256": "303e613ea6943d1732f8d519a44d237ee801f1a3a282394a1e140fe97921955f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0058",
+      "title": "Barro em pratos de porcelana",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0058.mp3",
+      "durationSeconds": 448.76,
+      "bytes": 10051314,
+      "sha256": "ee7d47a7d943db9b07f09b9a47dba2845f0af9fa8641f83ef76c33645cf90cd8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0059",
+      "title": "Bem-vindo as Montanhas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0059.mp3",
+      "durationSeconds": 199.32,
+      "bytes": 4409229,
+      "sha256": "290607167e5c710d2b0c145d388dc809c9a8ecd2f137471ad5f7396b54c1a2e9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0060",
+      "title": "Boss Byte Showdown",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0060.mp3",
+      "durationSeconds": 208.64,
+      "bytes": 4816457,
+      "sha256": "136ef0d8435ff8e3555979eddf6d1ae7b0396e0023d66bc2deb6d38a8bf7cb37",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0061",
+      "title": "Boss Byte",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0061.mp3",
+      "durationSeconds": 171.04,
+      "bytes": 3957682,
+      "sha256": "0bd468199479dbc9614abf1c3d208b8f624b93cdc5f717e83a9475f7a01cd60e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0062",
+      "title": "Boss de Aquarela",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0062.mp3",
+      "durationSeconds": 232.8,
+      "bytes": 4418289,
+      "sha256": "cb7aa3174784753edf2192447d9e97f1692896566bb08be7b2e340b44120f7e9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0064",
+      "title": "Bota o chavez",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0064.mp3",
+      "durationSeconds": 194.92,
+      "bytes": 4670626,
+      "sha256": "a629040d26c0d9322b9bbdcde2b6cf543d05b3ca1a7eedbc62342feea036d7b6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0065",
+      "title": "Bruxa Má",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0065.mp3",
+      "durationSeconds": 107.68,
+      "bytes": 2535940,
+      "sha256": "ad849df86b2759e8635df37db2a8b39a5dd262a67dafc1ca9c236711a2ce601a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0066",
+      "title": "Caaaan-seiiiii......!!!!",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0066.mp3",
+      "durationSeconds": 121.4,
+      "bytes": 2695904,
+      "sha256": "61a78eff8bbe88d4c687a23d4d36391c29ee0c553aba40b74d6f1f391e810ccc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0067",
+      "title": "Caio na sua mão",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0067.mp3",
+      "durationSeconds": 162.48,
+      "bytes": 3857271,
+      "sha256": "2f13f0207ac7f007f3148d6d91231ff85cbce83cc81a30622e5ab3ac4edc711e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0068",
+      "title": "Caminho de Voltas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0068.mp3",
+      "durationSeconds": 131.11,
+      "bytes": 3148522,
+      "sha256": "13ebd195bdc9c886a62d852d1bb6f75f88b1d255e4e3029821fc8850c6c8c1a6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0069",
+      "title": "Cansado",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0069.mp3",
+      "durationSeconds": 151.2,
+      "bytes": 3629997,
+      "sha256": "ebab69e149a3c645a3f54c71364391a10b7a8ad9141703fcb73b3bd986e3838d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0070",
+      "title": "Cansei(remaster)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0070.mp3",
+      "durationSeconds": 127.96,
+      "bytes": 2962317,
+      "sha256": "95c348d38a674193200e688c26382e3c8e37540a7e5a32cd63201a974cc30d4b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0071",
+      "title": "Cantarolar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0071.mp3",
+      "durationSeconds": 164.36,
+      "bytes": 3946221,
+      "sha256": "275d155455572f1158191d75d9c76d71b29dab117dee57d7b1cf939383de1b97",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0072",
+      "title": "Casinha (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0072.mp3",
+      "durationSeconds": 279.92,
+      "bytes": 6673400,
+      "sha256": "a1c6bb9942465cb6a39c6470b4a34f54349eb84d3c3963a3aac13f3589454bd3",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0073",
+      "title": "Causei",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0073.mp3",
+      "durationSeconds": 230.68,
+      "bytes": 5554679,
+      "sha256": "1b905b2fb4c70212058a53c4cdea6f6a0bcbfc8923a42b4b4d95e61ca0ad4862",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0074",
+      "title": "Chamará",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0074.mp3",
+      "durationSeconds": 232.4,
+      "bytes": 5328296,
+      "sha256": "547097476042ae2dcc8b18de802fadceb91ff313f92c375deb4b40e5c39e3c43",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0075",
+      "title": "Chamará",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0075.mp3",
+      "durationSeconds": 232.4,
+      "bytes": 5312589,
+      "sha256": "ecaa3a249c29b84e44503697c1949d175ffa85e7e28f4e83c14a96dd1ac8614b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0076",
+      "title": "Chuva em nos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0076.mp3",
+      "durationSeconds": 253.52,
+      "bytes": 6075621,
+      "sha256": "37b7c48246e1b921c772be50c54909a8e70b435db1578ff41cef44a4aafa63ef",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0077",
+      "title": "Cicatrizes na morada do sol",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0077.mp3",
+      "durationSeconds": 184.52,
+      "bytes": 4345701,
+      "sha256": "7620eed6d657d33eb6b757f2c0c06abc4db2baf9422f99ad44747828bfea2231",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0078",
+      "title": "Ciclo da nossa vida",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0078.mp3",
+      "durationSeconds": 189.92,
+      "bytes": 4540561,
+      "sha256": "8097b7c5dc2b2c051d9deea785f385d37f93dc83776a1bad34409727b9ff7aa7",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0079",
+      "title": "Circus day",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0079.mp3",
+      "durationSeconds": 239.0,
+      "bytes": 5737581,
+      "sha256": "77ba9047a7df57c81e3e5eb0a8fdfd47e180405fe49bf738a4758c56d5e7e668",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0080",
+      "title": "Clamor e fé",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0080.mp3",
+      "durationSeconds": 196.12,
+      "bytes": 7847167,
+      "sha256": "d7d869bbb46569965faf83de3fe2550fee981590e7f5db9b7bcf2e3eab7cb7c8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0081",
+      "title": "Coisas pequenas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0081.mp3",
+      "durationSeconds": 199.84,
+      "bytes": 4528756,
+      "sha256": "e79a752c2ed56b03063edad0d4b56fc6175fba03c905233987b576f074982bad",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0082",
+      "title": "Com um rio",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0082.mp3",
+      "durationSeconds": 109.68,
+      "bytes": 2633517,
+      "sha256": "c08df967ec1e1f98b825a56bcb70385502a4d9c75c1dde3f460ebc0893445aec",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0083",
+      "title": "Como Aprender a Viver",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0083.mp3",
+      "durationSeconds": 144.88,
+      "bytes": 3179421,
+      "sha256": "66d7b0e7d12725e36058eaf5dea547831a5163da95c15377e6f9b332b7f180b0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0084",
+      "title": "Contos de Fadas (emo)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0084.mp3",
+      "durationSeconds": 215.2,
+      "bytes": 4962698,
+      "sha256": "b8062b6f010e33d45fd0ed95fc3f432fd94c0c78d0cbb3262e339775d6cf95b4",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0085",
+      "title": "Contra ti, não dá",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0085.mp3",
+      "durationSeconds": 163.39,
+      "bytes": 6537740,
+      "sha256": "aa6947d714353b0532aef82dab4d497cb404f7cdad9694b10628dbddab6d49e4",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0086",
+      "title": "Coração Apagado",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0086.mp3",
+      "durationSeconds": 283.4,
+      "bytes": 6858404,
+      "sha256": "a858b390db828a44518398dd0ccad382d7eb02477d8fad71def9fc225bf078a7",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0087",
+      "title": "Coringa",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0087.mp3",
+      "durationSeconds": 115.92,
+      "bytes": 2783277,
+      "sha256": "bca66d4385425222a14d3e59db8a9a6d66ebcd73a89e00efdfb1dc631290f1a5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0088",
+      "title": "Correntes",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0088.mp3",
+      "durationSeconds": 183.84,
+      "bytes": 4413357,
+      "sha256": "0f69ecb19f38a1ea6d87d330e2612a8e95a35addabafd07158501d2f5d0d0270",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0089",
+      "title": "Cunhado",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0089.mp3",
+      "durationSeconds": 164.88,
+      "bytes": 3958317,
+      "sha256": "abb6e94ad8f567bd18b8e7a68d7f0d8f6eb30abb8ec518e7a554c55201d328a0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0090",
+      "title": "Cântico de vitória",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0090.mp3",
+      "durationSeconds": 184.84,
+      "bytes": 4125475,
+      "sha256": "a8231f1753aa173a14466858f66bda224da47085f48712191e675ed82aab77b7",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0091",
+      "title": "Da Luz á Escuridão",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0091.mp3",
+      "durationSeconds": 219.88,
+      "bytes": 5065677,
+      "sha256": "eeee5bcdbf1516c31c7a09d38fd6b26a92478e4defbe6478211e635bf63a4424",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0092",
+      "title": "Dani guaraná",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0092.mp3",
+      "durationSeconds": 80.04,
+      "bytes": 1319605,
+      "sha256": "a79dd9c2851ec67624b0cae93bec952d8fc3c3033976f4534dbbdc0f953968e8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0093",
+      "title": "Demorei",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0093.mp3",
+      "durationSeconds": 192.0,
+      "bytes": 4609197,
+      "sha256": "013b0e2412c592b2bda53b31bab24d1953451e7878b0dcf810ff7c1dd647da78",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0094",
+      "title": "Dias de Saudade (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0094.mp3",
+      "durationSeconds": 167.92,
+      "bytes": 3874509,
+      "sha256": "ad0b21c67bcb453ac5ce77c1208bb8cb0e337b53de1d96d7222e2ea8d404cf67",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0095",
+      "title": "Diz que ama tanto",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0095.mp3",
+      "durationSeconds": 141.0,
+      "bytes": 3385197,
+      "sha256": "73ac8fc41d5e25b2e21f8062771d3cc567a4d7d2c195d4abef40e4d42c2f4bed",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0096",
+      "title": "Diz....",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0096.mp3",
+      "durationSeconds": 122.12,
+      "bytes": 2932461,
+      "sha256": "2f36e20539b1cd3b32da29e1b4e78159cadab34890d510abfe2495b756c76054",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0097",
+      "title": "Dor invisível",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0097.mp3",
+      "durationSeconds": 192.36,
+      "bytes": 3965468,
+      "sha256": "597ea85e2f0622bc37e892a0b6925d4d516d6daf21f3c29a80ff1f7fbebcdbd6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0098",
+      "title": "Dormente",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0098.mp3",
+      "durationSeconds": 160.2,
+      "bytes": 3845997,
+      "sha256": "f120984fff45321c60fe34cce591a2b5dc42d8411adea25fa30a97b5fc9fe748",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0099",
+      "title": "Ele Só Existe",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0099.mp3",
+      "durationSeconds": 159.44,
+      "bytes": 3828141,
+      "sha256": "fc93cf17c7272277f4f954b62361013d5b17a42c78659a1917e1541b3efe7874",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0100",
+      "title": "Ele te ensina",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0100.mp3",
+      "durationSeconds": 217.36,
+      "bytes": 5218029,
+      "sha256": "108c485a35dbff8555b75a3fa6306fa85269b2919be3dc7ee8152f1d8f8c4876",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0101",
+      "title": "Eli sem bastão-1",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0101.mp3",
+      "durationSeconds": 194.2,
+      "bytes": 4433430,
+      "sha256": "5641d8ed8ab0f49fc65517daf68d2b407c0d9aa20f1fe242657d91d44a96df11",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0103",
+      "title": "Em sua luz",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0103.mp3",
+      "durationSeconds": 261.44,
+      "bytes": 10460305,
+      "sha256": "5e6a9599fd36b09bd3686bb7c4fb8235c8e67de59027a2290682845128ccd3f3",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0105",
+      "title": "Enquanto dá",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0105.mp3",
+      "durationSeconds": 196.8,
+      "bytes": 4724397,
+      "sha256": "2a60469cbc4f0874d7e77528a300cb3000eebfbab3156214153129fdf77f31ad",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0106",
+      "title": "Entre lembranças e você (2)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0106.mp3",
+      "durationSeconds": 295.88,
+      "bytes": 7054975,
+      "sha256": "8503d0d7c57826275b735e29f82f3f72025d0f3cf541deb28c558d471c8da9d4",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0107",
+      "title": "Escolhido",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0107.mp3",
+      "durationSeconds": 177.5,
+      "bytes": 2840064,
+      "sha256": "2bcc25b4f593bc9c9dbb52f24617d2f8c7c88bf53a8c71bbd61012098405bc8b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0108",
+      "title": "Escuridão",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0108.mp3",
+      "durationSeconds": 246.36,
+      "bytes": 5057205,
+      "sha256": "ef1b7507345343bd861e22631be45ca0eb120b594260d333f1ed5e5f92cb0d47",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0109",
+      "title": "Escuridão e Esperança",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0109.mp3",
+      "durationSeconds": 194.0,
+      "bytes": 4657581,
+      "sha256": "94611886ebb9e6779607cb63fb363a1ae01d399b02cd1083dcd6c1a92396e3eb",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0110",
+      "title": "Espelho",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0110.mp3",
+      "durationSeconds": 223.48,
+      "bytes": 5041529,
+      "sha256": "6a8c2c6b6dabf194bf5743f79a255449dea99cb1e4a728732e0591094e9b89d5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0111",
+      "title": "Espera retornar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0111.mp3",
+      "durationSeconds": 208.56,
+      "bytes": 4904626,
+      "sha256": "26138b240dd49f7fc0313a8ccea1cbfd55acbf4142ab19f74d3a184332e2c14f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0112",
+      "title": "Esperando por Jeová",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0112.mp3",
+      "durationSeconds": 272.36,
+      "bytes": 6452405,
+      "sha256": "123ad2786a8b94c2b53342a3292c45ceca984e809b6a61e9f21d1881b081a326",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0113",
+      "title": "Espetáculo da Vida",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0113.mp3",
+      "durationSeconds": 333.0,
+      "bytes": 7842623,
+      "sha256": "c840efa123551f01eef267abb86fc607a4d0b2e792c53aacee21179cc05f7b01",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0114",
+      "title": "Esse espinho",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0114.mp3",
+      "durationSeconds": 207.92,
+      "bytes": 4673160,
+      "sha256": "bc0eea38d85230c4151d1570b91ab63e2cf830c642761de88d37fe42cd6f4c78",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0115",
+      "title": "Estranhamente infeliz",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0115.mp3",
+      "durationSeconds": 162.88,
+      "bytes": 3689834,
+      "sha256": "d85477e1f919e629f80aa23c1be3fd0b6ca21caef1be9ee28fcf00bb73c89411",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0116",
+      "title": "Etc. E tal (POP)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0116.mp3",
+      "durationSeconds": 171.0,
+      "bytes": 3837978,
+      "sha256": "3cad3463705d5f92ed9cda5b0c0148bf2544c2a895cfe3284f54b814341e4248",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0117",
+      "title": "Etc...",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0117.mp3",
+      "durationSeconds": 192.92,
+      "bytes": 4365570,
+      "sha256": "6416b449158c89d634645efd229e57149e163dcca1735dee4d0f7d8261701962",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0118",
+      "title": "Eu fico muito bem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0118.mp3",
+      "durationSeconds": 243.56,
+      "bytes": 5753207,
+      "sha256": "408e6e3a3c84fab3df66766b0ef35a333bea576268c1b9fdaa8150a8d8905093",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0119",
+      "title": "Eu vi ele",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0119.mp3",
+      "durationSeconds": 260.52,
+      "bytes": 5622779,
+      "sha256": "19460c59bd665c4ea08ae05b1d9f6e4ad9c5acca317f774b5bcb1020ab022645",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0120",
+      "title": "Fadinha",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0120.mp3",
+      "durationSeconds": 164.72,
+      "bytes": 3954861,
+      "sha256": "33569b3d990a798d7b5df13f0abc4db82048f00816cd3c6501b2ed807e24412d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0121",
+      "title": "Faith",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0121.mp3",
+      "durationSeconds": 252.16,
+      "bytes": 5183669,
+      "sha256": "fb1608b80bf0b714d0a669a40a6431b094301ca1e2cc350fbbac08b7a183952d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0122",
+      "title": "Fantasma da parede",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0122.mp3",
+      "durationSeconds": 251.08,
+      "bytes": 5915316,
+      "sha256": "04995ec47c9191fa51bc35242141cb26d369aa5d31ed7d1e8a44abb0f98b9267",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0123",
+      "title": "Fase_final",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0123.mp3",
+      "durationSeconds": 235.72,
+      "bytes": 5752679,
+      "sha256": "d9350950bef2af1b2a8c35c52d4af861f832d7efcebd8cabd2a9942f43c7d94b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0124",
+      "title": "Fim do tunel",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0124.mp3",
+      "durationSeconds": 224.64,
+      "bytes": 5406691,
+      "sha256": "5f9b99b48617d19a72023b21cbe326e830780fa4fd7de7926f7fa2f066257477",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0125",
+      "title": "Fim dos tempos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0125.mp3",
+      "durationSeconds": 278.64,
+      "bytes": 6308968,
+      "sha256": "3c7667c69d30fa6bbf2dd031cf344a1b3069ccfd73b2f92b2ef376b320f81bb6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0126",
+      "title": "Final dos tempos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0126.mp3",
+      "durationSeconds": 273.88,
+      "bytes": 6143141,
+      "sha256": "f9dc34c6f5517e0fb2ee4db565577e1da42f273c52884cb5cf9dd7544595b022",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0127",
+      "title": "Fly...2",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0127.mp3",
+      "durationSeconds": 269.96,
+      "bytes": 6354192,
+      "sha256": "ae00d513f5d2f4e30285bfd1e7e3f41f12097bd4eceadbec06a85d56340e7861",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0128",
+      "title": "Fly_game",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0128.mp3",
+      "durationSeconds": 89.8,
+      "bytes": 2188963,
+      "sha256": "f4ae648562fa9b3edc070e4a19ab5a694bec4efe5a272d24aafc47eac445ed83",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0129",
+      "title": "Game_dream (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0129.mp3",
+      "durationSeconds": 170.72,
+      "bytes": 3310206,
+      "sha256": "08bf01f2bd9b2382375db7abf9644ebafdc0a19ec014b10b93cdfd6ddf9088e2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0130",
+      "title": "Game_dream (2",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0130.mp3",
+      "durationSeconds": 170.64,
+      "bytes": 4047162,
+      "sha256": "5dd6454640982bc7b58c91a7a18a4b6bad221e094756b741f4383c986d88b94d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0132",
+      "title": "Game_dream2",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0132.mp3",
+      "durationSeconds": 170.64,
+      "bytes": 4047164,
+      "sha256": "34b92c44daa9d5d3c83307888991fdfac7744972871a9639aab1d43a8527dc86",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0133",
+      "title": "Gameficado",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0133.mp3",
+      "durationSeconds": 171.28,
+      "bytes": 3504089,
+      "sha256": "d1769e2e4732fe598d6a1e8b57e9425a7ddccb1baccd4f47e9d9757606713543",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0134",
+      "title": "Gigante",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0134.mp3",
+      "durationSeconds": 188.76,
+      "bytes": 4103916,
+      "sha256": "d64fa296c1b9a4f2951cf3f80c68d9dca1831d8f99d38fa25e8714d805c75025",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0135",
+      "title": "Go!",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0135.mp3",
+      "durationSeconds": 137.52,
+      "bytes": 3253389,
+      "sha256": "c99d6032b4549bffd1f8f54ff87c9ecfd2cfb9155522a5b0b05f3e68ef78316f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0136",
+      "title": "God",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0136.mp3",
+      "durationSeconds": 214.92,
+      "bytes": 4738631,
+      "sha256": "6ceaaab9522155885f90ae0da632fc3f138338b24f8567d05a78ab9ae9087230",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0137",
+      "title": "Grito",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0137.mp3",
+      "durationSeconds": 189.92,
+      "bytes": 4484229,
+      "sha256": "433af5beb2ff1bfad26e2d2620a6fcdc534cbe023156d47447d2125b6b5b9cde",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0138",
+      "title": "Head shot",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0138.mp3",
+      "durationSeconds": 186.36,
+      "bytes": 4473837,
+      "sha256": "384b0d38737c8b9cec187243a7ecf6cc069b9b4d5a3af4b73e25779d2db683ed",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0139",
+      "title": "Help me Help",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0139.mp3",
+      "durationSeconds": 263.0,
+      "bytes": 5523604,
+      "sha256": "6c7d1749325ba53b894d6f4b84adc247e53e54431ff364fa5a54f686c69a6928",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0140",
+      "title": "Hey você escuta aqui",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0140.mp3",
+      "durationSeconds": 127.76,
+      "bytes": 3067821,
+      "sha256": "041ee66388425db791b19ea62f3cfe63e89bdb828cfe5ee2cbb442df8ab02fde",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0141",
+      "title": "Hoje",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0141.mp3",
+      "durationSeconds": 188.92,
+      "bytes": 4322273,
+      "sha256": "6e0cf564189d5f4b6fc9d3cdad01f636d43d0239a4e3165802bcd738e98cabd8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0142",
+      "title": "Homem simples",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0142.mp3",
+      "durationSeconds": 227.56,
+      "bytes": 5131106,
+      "sha256": "74814f4e1ce3c2e14e442cf81a3549df11de062a7d8785f544a41ea2c3d34a2c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0143",
+      "title": "Igno-rân-cia",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0143.mp3",
+      "durationSeconds": 134.96,
+      "bytes": 3075400,
+      "sha256": "6e4210f9f305924d5ffa4f017202e710f59075da1853d5d3ef8498fc89ae43e9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0144",
+      "title": "Ilusão",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0144.mp3",
+      "durationSeconds": 330.0,
+      "bytes": 7915671,
+      "sha256": "9b2a5a7f4ef26859f666312a33274a108411cf0e206a308673f97aef66995b88",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0145",
+      "title": "Insistir no que é defeito",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0145.mp3",
+      "durationSeconds": 96.08,
+      "bytes": 2281157,
+      "sha256": "923ec617f4d5a1e22acb4bf85b64c407b9cef87713391ea3898b96eb088d1873",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0146",
+      "title": "Intro",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0146.mp3",
+      "durationSeconds": 228.32,
+      "bytes": 5481261,
+      "sha256": "76502991315afbbdcd70fd2222266093ce0414dacfd43cfb77b07878024fdb9a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0147",
+      "title": "Invisível",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0147.mp3",
+      "durationSeconds": 224.0,
+      "bytes": 5260305,
+      "sha256": "7b6a625854ba95869e7c0409e8d0fc4c3d556b21a9f382ddc2745196496b30ab",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0148",
+      "title": "Jeová nos põe a salvo (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0148.mp3",
+      "durationSeconds": 277.76,
+      "bytes": 6414146,
+      "sha256": "9482be40c511cb1d40d3d9ed6aa33ec6d0cbacc070d4adb339fb6201b20f62c2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0149",
+      "title": "Jeová nos põe a salvo (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0149.mp3",
+      "durationSeconds": 325.88,
+      "bytes": 7690574,
+      "sha256": "3db5332fae84d538083a377edcd4b58e8dde082a65a4750099d1ed8d6f2aff6d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0150",
+      "title": "Jeová nos põe a salvo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0150.mp3",
+      "durationSeconds": 309.22,
+      "bytes": 9922255,
+      "sha256": "a098cc9c01bd111d7667d2aa61c67db255104efd7d86680b66fedf09350fa9f4",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0151",
+      "title": "Joker",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0151.mp3",
+      "durationSeconds": 120.0,
+      "bytes": 2881197,
+      "sha256": "e58ff7ac2053dacf34abbc50f1071b4917917969da253d583b0b9fcaed169527",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0152",
+      "title": "Lama",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0152.mp3",
+      "durationSeconds": 159.96,
+      "bytes": 3640224,
+      "sha256": "3362b5ec647647051f846f04f9c1a106545e42864ed71267c4829879700274e9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0153",
+      "title": "Lembrança de gaveta",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0153.mp3",
+      "durationSeconds": 290.08,
+      "bytes": 6910811,
+      "sha256": "a1507b6717068a4b377dfb4d71aff07788c976d793467d003833d4279d167e5f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0154",
+      "title": "Lembrança na gaveta",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0154.mp3",
+      "durationSeconds": 264.36,
+      "bytes": 6282040,
+      "sha256": "f32bc47d2bdafa270f98e112ca3ce0933a48e106c2ef598c204c4da27779f92c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0155",
+      "title": "Lembranças Queridas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0155.mp3",
+      "durationSeconds": 119.88,
+      "bytes": 2878317,
+      "sha256": "ac2fdb14a1ccc19149473a2bc82820cdf3f8b80bc3d035a0560d2429f03cdf75",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0156",
+      "title": "Levando memorias",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0156.mp3",
+      "durationSeconds": 240.2,
+      "bytes": 5533589,
+      "sha256": "1c24a700284f557b9c422a1be5c45c1cea59f61cd4873709a69214a4ae569594",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0157",
+      "title": "Lilo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0157.mp3",
+      "durationSeconds": 222.68,
+      "bytes": 5345901,
+      "sha256": "d496744a891f2f809b11cb7730131e5a9427e5c9a584eb4e5e7ba27da75dd625",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0158",
+      "title": "Limbo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0158.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5557719,
+      "sha256": "4d0f0b2e42d736687614c2741081b1b74f3f103fc99ffbd989c1b1334bfb7c09",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0159",
+      "title": "Longe de mim",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0159.mp3",
+      "durationSeconds": 171.16,
+      "bytes": 4109229,
+      "sha256": "b6337ec47afa304373aac05652e2fa6d93c049051046620a1ed8a4241221ca05",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0160",
+      "title": "Longe_de_você",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0160.mp3",
+      "durationSeconds": 188.11,
+      "bytes": 5067070,
+      "sha256": "fc0601c36ee9f64bc17c3f33b1ef1f3a5e9f59c9ba1a8fd88fdc246f268571cf",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0161",
+      "title": "Lyrics",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0161.mp3",
+      "durationSeconds": 198.92,
+      "bytes": 4775661,
+      "sha256": "2229b4021a8a79416d71a20112825d50ff0f09c9ce787974c03bd88e0f6f349f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0162",
+      "title": "Lá lá lá la lá la lá",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0162.mp3",
+      "durationSeconds": 170.36,
+      "bytes": 4090221,
+      "sha256": "6c66c31944f55dd419b804a03777ac746a1bd4033524a79bd7b34b1705f02505",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0163",
+      "title": "Mais Fácil",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0163.mp3",
+      "durationSeconds": 283.16,
+      "bytes": 6850432,
+      "sha256": "ac129aa357bcf4976cd5a653c3102da276eb3cfb43122515a45bd7b435c18ff9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0164",
+      "title": "Mais forte que a dor",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0164.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5761197,
+      "sha256": "441803a9c3a755465971141da8a066483542c601e9d21650344aff0fbb9e8627",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0165",
+      "title": "Mais_Longe_de_Você",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0165.mp3",
+      "durationSeconds": 190.19,
+      "bytes": 5119846,
+      "sha256": "af078b54ae6722fdb870c7180b5f606abfae85fbb319c1da04104a4c02d29dd1",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0166",
+      "title": "Maluco",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0166.mp3",
+      "durationSeconds": 100.0,
+      "bytes": 2401389,
+      "sha256": "8f25345e26c05afe45da884304382c4cae88b628fabbbdd9fe830e5aeb71a341",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0167",
+      "title": "Me ajude a ajudar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0167.mp3",
+      "durationSeconds": 257.96,
+      "bytes": 5177316,
+      "sha256": "5dd14cd13a8509cdc00e040f8ddcd0369975784f8e2686e7ac66a45be9400ce6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0168",
+      "title": "Me tire daqui",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0168.mp3",
+      "durationSeconds": 202.96,
+      "bytes": 4883400,
+      "sha256": "e9a02b83af3684492e74c54d102bc4017e43f50f27f0db7bf8987d1e30e6c7dc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0169",
+      "title": "Meninos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0169.mp3",
+      "durationSeconds": 200.04,
+      "bytes": 3200640,
+      "sha256": "787dbe5b635a942d66c4f64d249f28a2fe444994ee895d56c723dc40db2c7078",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0170",
+      "title": "Mesmo no silêncio",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0170.mp3",
+      "durationSeconds": 224.48,
+      "bytes": 5389101,
+      "sha256": "99b940b5aa67606c3cbbfe4f38704e7c280f62983e183e1b20d84738d3281122",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0171",
+      "title": "Mesmo se não notar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0171.mp3",
+      "durationSeconds": 177.48,
+      "bytes": 4260717,
+      "sha256": "358582cb6d2aeeefbe2b9725aad0ae2bea4f24e36a480ef834e302f7d87472fc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0172",
+      "title": "Mesmo se não ver",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0172.mp3",
+      "durationSeconds": 195.0,
+      "bytes": 4699637,
+      "sha256": "bd46f26036743f2b0c6835afece42fd0f7a8bdeddf8fa79a3753b47cd7fb8067",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0173",
+      "title": "Meu Deus",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0173.mp3",
+      "durationSeconds": 479.36,
+      "bytes": 8523776,
+      "sha256": "a7cfed1df24fcd6abece738150e9fd5d6b13ed06559ceb665a9e1aa4acb3c695",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0174",
+      "title": "Meu melhor sorriso",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0174.mp3",
+      "durationSeconds": 190.68,
+      "bytes": 4630179,
+      "sha256": "424b9881a1475b352d556c5b28c178f1cc26c9b2a6ed9226f3e4b7ad4fcdd3e2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0175",
+      "title": "Meu pequeno anjo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0175.mp3",
+      "durationSeconds": 183.8,
+      "bytes": 4412781,
+      "sha256": "3ea960722bc3d7d0feefed752826f5195d33eb301e6cd595bef0c214866699cf",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0176",
+      "title": "Minha Tia Caiu",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0176.mp3",
+      "durationSeconds": 140.0,
+      "bytes": 3361581,
+      "sha256": "a03695d7930b28c7f0edbc4f8af65659e91e0582bd189663fa496bea7e935dfb",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0177",
+      "title": "Minha Vó Querida",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0177.mp3",
+      "durationSeconds": 151.84,
+      "bytes": 3645549,
+      "sha256": "a02359128b3d36aa7ae5c1f482039ef9446017cbf4ea1aad6612062e2795927a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0178",
+      "title": "Minha herança",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0178.mp3",
+      "durationSeconds": 249.52,
+      "bytes": 5929602,
+      "sha256": "03f846af851aa6f2d085e774d159735f571cdd60563f251cea75b430535807fd",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0179",
+      "title": "Minha veinha",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0179.mp3",
+      "durationSeconds": 287.0,
+      "bytes": 6382716,
+      "sha256": "94931ff507f028c16c87e00223f4e82cd6574d4ac9f576eee653520011f689a2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0180",
+      "title": "Mini - Chicken (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0180.mp3",
+      "durationSeconds": 64.0,
+      "bytes": 1435745,
+      "sha256": "ed3df0cddfecdd490132d15ca762bbc0d6259d0dd498bfb2491e861d2ebf7738",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0181",
+      "title": "Mini - Chicken",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0181.mp3",
+      "durationSeconds": 200.64,
+      "bytes": 4816557,
+      "sha256": "c43d02e9bc18cdb715ad6c82a0a89a78c36f15c98a955eea66ef8e78891f481f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0182",
+      "title": "Monstro Subterrâneo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0182.mp3",
+      "durationSeconds": 209.88,
+      "bytes": 4900106,
+      "sha256": "924e5589840f91a993bbf858e0d5c61c517a8646be3348624c7e2788ce62e1f5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0183",
+      "title": "Monstro",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0183.mp3",
+      "durationSeconds": 246.2,
+      "bytes": 5765013,
+      "sha256": "2cb74621330a5bfe37a796d5b70df8e5281c7d6c57f5db4ec0fef29120b96467",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0184",
+      "title": "Música _game",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0184.mp3",
+      "durationSeconds": 479.96,
+      "bytes": 10941547,
+      "sha256": "0acfc12951781bb5aecd213007f2560b04028a4b4be784dcf9cee66e5f6dda05",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0185",
+      "title": "N consigo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0185.mp3",
+      "durationSeconds": 218.56,
+      "bytes": 5246829,
+      "sha256": "aca781a81504215fff3842c9dc4b1263a3f2f5c9cad783d508b28cb01b589c66",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0186",
+      "title": "Na batida do coração",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0186.mp3",
+      "durationSeconds": 198.0,
+      "bytes": 4753197,
+      "sha256": "dbf1dbfa91b076f5181cd9d9aa05ecb9f292506f345896c6c87bcfd052e5144c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0187",
+      "title": "Na frente da varanda (Cover)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0187.mp3",
+      "durationSeconds": 246.64,
+      "bytes": 5221965,
+      "sha256": "9dbd6d15d8db2f24f35fc9bbd08ee28438897ab9d669145fcba229cfd22e30b5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0188",
+      "title": "Na terra dos jogos,",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0188.mp3",
+      "durationSeconds": 113.0,
+      "bytes": 2713581,
+      "sha256": "61f51088f800599375803a34aca51010bb75532bef58641bc25cee65059140e2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0189",
+      "title": "Na varanda",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0189.mp3",
+      "durationSeconds": 225.12,
+      "bytes": 4804539,
+      "sha256": "34382a086c119782c5730f9457fc05dd6f3a7e578ea1ebfdc2067a65b515517b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0190",
+      "title": "No fio da esperança  (Remastered)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0190.mp3",
+      "durationSeconds": 176.24,
+      "bytes": 4231341,
+      "sha256": "1f85a33b37005d6a66197b59df2f33b2d9d54a34892a156951e71647e5220898",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0191",
+      "title": "No fio da esperança",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0191.mp3",
+      "durationSeconds": 176.24,
+      "bytes": 4231341,
+      "sha256": "0fc14aa9f0f38e230f711da4eb26846da7ca48ab8b6fa1830bd7fe2596a133ca",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0192",
+      "title": "Nois no game",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0192.mp3",
+      "durationSeconds": 239.8,
+      "bytes": 5756589,
+      "sha256": "d5248f260530c7f4c224517a6aac4e067aa94eb1a6dd8eb99cdd15618e0162c2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0193",
+      "title": "Noites lentas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0193.mp3",
+      "durationSeconds": 290.56,
+      "bytes": 6887794,
+      "sha256": "6f2f93948db72184dea3f7bafca538b1cf73d559fd57bebf571260f8125fd4e2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0194",
+      "title": "Nos cantos, afastado da luz",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0194.mp3",
+      "durationSeconds": 134.88,
+      "bytes": 3238317,
+      "sha256": "e4128aef6a301945f50948bcb1b2a98f17ef9208cffc7e61bad36e9cdbcd775b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0195",
+      "title": "Nosso ciclo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0195.mp3",
+      "durationSeconds": 152.92,
+      "bytes": 3414798,
+      "sha256": "e8c561ed94d1c51c3b1528986b6955eb609d91420c9a2d3ab1f405e35ba21d90",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0196",
+      "title": "Nota perfeita",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0196.mp3",
+      "durationSeconds": 193.0,
+      "bytes": 4224380,
+      "sha256": "4ee95fe3f17a0d1c131b6b111e55c0d8424547a59f374adbe2d3aa88ac68ab5a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0197",
+      "title": "Não adianta correr",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0197.mp3",
+      "durationSeconds": 143.6,
+      "bytes": 3447981,
+      "sha256": "cf32cf9fc43d47754a8062c0cc5b7fa0b0771b9ceffc4e75341f420e430eb8a2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0198",
+      "title": "Não adiantou (1)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0198.mp3",
+      "durationSeconds": 254.96,
+      "bytes": 5529597,
+      "sha256": "5f0efcbb88060f42640c0c86e082c0368f1de5bcbc0a4d9f8c7c9a4e398b3a9b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0200",
+      "title": "Não consigo ir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0200.mp3",
+      "durationSeconds": 192.4,
+      "bytes": 4396880,
+      "sha256": "888472b5ac45cd5490fd3817624fd5349283508ee728d5e87a177450fb96544e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0201",
+      "title": "Não consigo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0201.mp3",
+      "durationSeconds": 143.36,
+      "bytes": 3230925,
+      "sha256": "7096b64f8861a30903f25c5e300574280190e7b8f0c4abf78919ff7f7a31afed",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0202",
+      "title": "Não escolhi o vento",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0202.mp3",
+      "durationSeconds": 226.4,
+      "bytes": 4877690,
+      "sha256": "a520001e6ec48b20a8601470770517eeef86ac49bedf714da8bd562f445feabc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0203",
+      "title": "Não esperava a chegar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0203.mp3",
+      "durationSeconds": 236.2,
+      "bytes": 5756888,
+      "sha256": "cb6ccf67b37ba33faddb0dab88f88c7c43563fa832f878cec0658033512be16f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0204",
+      "title": "O Mundo Ficou Sem Cor (Remastered)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0204.mp3",
+      "durationSeconds": 239.8,
+      "bytes": 5756589,
+      "sha256": "d35f6ca5e21c56a4b96b16b3eb75a47a7b3387fa12d3a595dc7aa430a5c076d7",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0205",
+      "title": "O Mundo Ficou Sem Cor",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0205.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5761197,
+      "sha256": "5d8415882adb457353e43b468a88731e66b2665edc43d6854ece5b866e7016c0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0206",
+      "title": "O Peso da Vida",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0206.mp3",
+      "durationSeconds": 231.08,
+      "bytes": 5383923,
+      "sha256": "7d42a8fd534d2e1c47b1bb04e04f614bf45995b50b5f4967a351bba4db3d3e8c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0207",
+      "title": "O homem que escolheu ficar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0207.mp3",
+      "durationSeconds": 298.2,
+      "bytes": 7186565,
+      "sha256": "c2e216a80dd555cba791617abac02adb57300c8cf1bee6a77cb2625d6d3a46dd",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0208",
+      "title": "O mundo do outro",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0208.mp3",
+      "durationSeconds": 184.64,
+      "bytes": 3891278,
+      "sha256": "27235939ca375c8a4421e7a306b85e40052f6eeb809d10c7c77dcd0147ac285d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0209",
+      "title": "O poder da estrada",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0209.mp3",
+      "durationSeconds": 207.04,
+      "bytes": 4671228,
+      "sha256": "b84529cfe9720bf051f174778929c6dfcffe71311cc4336e8e91e00c62197002",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0210",
+      "title": "O quarto",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0210.mp3",
+      "durationSeconds": 224.72,
+      "bytes": 5213742,
+      "sha256": "73728784d3b4db3f548acc06d6eb25d570ac49a1ca08bb084663bd1179aa22fc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0211",
+      "title": "O senhor vê_",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0211.mp3",
+      "durationSeconds": 228.54,
+      "bytes": 9144160,
+      "sha256": "f517980afd078607d0dc2df0c5f0f27be9c9724427102249ff08fb8965884677",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0212",
+      "title": "O tempo não espera",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0212.mp3",
+      "durationSeconds": 189.16,
+      "bytes": 4095885,
+      "sha256": "d2924a95826610e09b40da9e6bb9d39fbbd811a2e1db6c77f4fc5fe9ab2057ef",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0213",
+      "title": "O tempo, é, relativo... depende de quem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0213.mp3",
+      "durationSeconds": 129.16,
+      "bytes": 2892083,
+      "sha256": "26696591a26f3d9e4b77cd83ca07944db31b68127c4c154687f0e143b74d3eac",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0214",
+      "title": "O universo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0214.mp3",
+      "durationSeconds": 164.96,
+      "bytes": 3823245,
+      "sha256": "f1b89a80d24a1e392d1ab2913961ab97e32d45ba4b1f59d852f942b8ebf30dfc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0215",
+      "title": "Oh meu pai",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0215.mp3",
+      "durationSeconds": 349.96,
+      "bytes": 7955264,
+      "sha256": "aa96720847efb33800cd4c5f89fa7255227b0d2d7acce61a0e0f1da8a032b249",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0216",
+      "title": "Olha a janela....",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0216.mp3",
+      "durationSeconds": 67.4,
+      "bytes": 1619181,
+      "sha256": "1748284e63018653628a6b360993ef72b05e47c775ff8e4a13c29a9e5b0f9271",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0217",
+      "title": "Onde anda a felicidade",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0217.mp3",
+      "durationSeconds": 212.0,
+      "bytes": 5089581,
+      "sha256": "3ecbecb3b6500dc015ffc9ff245e9e30f5d3d7aab8685ea9252f52229b4c9655",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0218",
+      "title": "PRESO EM VOCÊ",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0218.mp3",
+      "durationSeconds": 204.12,
+      "bytes": 4906437,
+      "sha256": "7cb608d6ebdcb2dfebedc2d1153c9f4832ad01a19c9450dc1015fbe56878227c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0219",
+      "title": "PaPum Pererê",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0219.mp3",
+      "durationSeconds": 116.96,
+      "bytes": 2808621,
+      "sha256": "72ad7ec3c367788e35e96d0422a325368a8423439562d7756a49652b4266b616",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0220",
+      "title": "Paciência",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0220.mp3",
+      "durationSeconds": 287.92,
+      "bytes": 6477841,
+      "sha256": "9c67f706b291efe139992c14fc23d540adb99d58534969c5c2386a31202ca960",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0221",
+      "title": "Pai, por favor.",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0221.mp3",
+      "durationSeconds": 197.84,
+      "bytes": 4759559,
+      "sha256": "4d844ca714e9066f11c9a002bcfa1ec5425eedae4f2d24e5adc272790488f979",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0222",
+      "title": "Papai quero jogar oficial",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0222.mp3",
+      "durationSeconds": 106.92,
+      "bytes": 2523856,
+      "sha256": "ea433b249a2c96f6660d6095e8dc9ec2d9ae0b7f5830e7595ff71bb3c5eaa1e0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0223",
+      "title": "Parece que está tudo bem, mas não está",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0223.mp3",
+      "durationSeconds": 168.76,
+      "bytes": 4051629,
+      "sha256": "3730a2f0dbba3375a9325c72892de37dd96442224df034de3ae1f4573aceebba",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0224",
+      "title": "Parece que está tudo bem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0224.mp3",
+      "durationSeconds": 218.4,
+      "bytes": 5242797,
+      "sha256": "1904e00dd74dd7500fd4f43e9e5378312091e70219d024b2d7dd0f6c7bf0b541",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0225",
+      "title": "Parei",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0225.mp3",
+      "durationSeconds": 194.68,
+      "bytes": 4521240,
+      "sha256": "d3461603999639db9a978bd5e5b4c95195ebc2115e8f82f9aaf8d57ef82fc538",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0226",
+      "title": "Parte quebrada",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0226.mp3",
+      "durationSeconds": 206.56,
+      "bytes": 4860487,
+      "sha256": "9459e0728ad1be564535be9092d7a5460a86a43507d587a3f84b8bccdaaca76b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0227",
+      "title": "Passei Por Aqui",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0227.mp3",
+      "durationSeconds": 139.44,
+      "bytes": 3347757,
+      "sha256": "48c12b60299c47368ebe0183e081fe01bf4d21346c5fa44dc3a0d279d4dd68ff",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0228",
+      "title": "Pelos cantos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0228.mp3",
+      "durationSeconds": 219.24,
+      "bytes": 5262957,
+      "sha256": "17189e842994a4538624555844c45e40e58569e0ff9a3a6b58e12bf206d1fb36",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0229",
+      "title": "Pequenas Coisas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0229.mp3",
+      "durationSeconds": 168.88,
+      "bytes": 3356730,
+      "sha256": "6c2ade0c99f9bad28f175499d36701acc97a2173916bc8876b843a237297221b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0230",
+      "title": "PesoBarato",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0230.mp3",
+      "durationSeconds": 228.74,
+      "bytes": 5507732,
+      "sha256": "10c429eabb20ced57705ea866c29e1c4f835b59118d0c1f8507d04ff05e4e1dc",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0231",
+      "title": "Peso_Barato_V2",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0231.mp3",
+      "durationSeconds": 211.24,
+      "bytes": 5308124,
+      "sha256": "d036543db00bb2b2bd8c1803eb08fcc46f223fa3a38bd5dfa8acd44052d41318",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0232",
+      "title": "Pista de Aço",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0232.mp3",
+      "durationSeconds": 194.96,
+      "bytes": 4499808,
+      "sha256": "348a1da4353df5883042e58b9805132b37be1c35174808f529f2f61b0e63c84f",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0233",
+      "title": "Pixel Quest",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0233.mp3",
+      "durationSeconds": 119.96,
+      "bytes": 2797077,
+      "sha256": "c7925dce599da9b4d6a74f3b54e47b8b62cfffcd5190653e79fa7245983d16b2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0234",
+      "title": "Pode Ir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0234.mp3",
+      "durationSeconds": 156.72,
+      "bytes": 3595053,
+      "sha256": "a864f948b637b09fbc6f51b80ae4bd09495fde7af218051f3b24070ed2e04fd8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0235",
+      "title": "Pode Ir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0235.mp3",
+      "durationSeconds": 171.48,
+      "bytes": 3918194,
+      "sha256": "5f0ac9f0dafe870e80c775c162ad8be379a6084a8b5d66e31f271e7c77514152",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0236",
+      "title": "Pode o céu desabafar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0236.mp3",
+      "durationSeconds": 138.0,
+      "bytes": 3313197,
+      "sha256": "582237f5d0bfe873c3fe75509959df169e54d2619a9672514267ecbc66263a61",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0237",
+      "title": "Por Onde Andas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0237.mp3",
+      "durationSeconds": 188.0,
+      "bytes": 4513581,
+      "sha256": "32199a0fd61faa0d47eaa48c3f181154b025ae31f81c752cd71f7930b44bf449",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0238",
+      "title": "Por que do outro",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0238.mp3",
+      "durationSeconds": 199.96,
+      "bytes": 4872215,
+      "sha256": "7a196cd544b19ae06dc8c301d3d24b84dde3268ad86c979f5c1ac5d2fea286ef",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0239",
+      "title": "Precisei partir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0239.mp3",
+      "durationSeconds": 195.68,
+      "bytes": 4073494,
+      "sha256": "d69b8a828952f6ba32272cc40bc9b2ad0737d850ec01a63724808195a4f975af",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0241",
+      "title": "Presos no agora",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0241.mp3",
+      "durationSeconds": 298.2,
+      "bytes": 6938658,
+      "sha256": "00b3ee07fd536d0584608a8a63b4b375b80819314e1a9fd5710ae0af6d0d758a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0242",
+      "title": "Promessas que Partem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0242.mp3",
+      "durationSeconds": 203.96,
+      "bytes": 4896621,
+      "sha256": "59838fef287b5a523800789daf789c38f4e82d11e26b4e4fd7fb133b23fc0c7d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0243",
+      "title": "Q. Q.q.q.quem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0243.mp3",
+      "durationSeconds": 221.72,
+      "bytes": 5322861,
+      "sha256": "a8edce5cbc2c1ff0f337f0c396744c7811a46dae68df49e342979d3512793cbd",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0244",
+      "title": "Qdo voltar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0244.mp3",
+      "durationSeconds": 168.72,
+      "bytes": 3996831,
+      "sha256": "4c95915ee0d4277428f3b390a5d640c4bfa95f9cf6b0bc2905bb4f9ce14b5f84",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0245",
+      "title": "Quando eu era jovem",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0245.mp3",
+      "durationSeconds": 172.56,
+      "bytes": 4142637,
+      "sha256": "6a494bfbce5cbc097f79f9963caa3289bdf38bef008eb12669564c5dc01c75ee",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0246",
+      "title": "Quando o Mau Vence_",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0246.mp3",
+      "durationSeconds": 196.12,
+      "bytes": 7847189,
+      "sha256": "6a516cf8365ba258a1daa2d176a87f0f32123a4f9f97be0358b80deff0ac9726",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0247",
+      "title": "Quando o conheci",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0247.mp3",
+      "durationSeconds": 239.8,
+      "bytes": 5756589,
+      "sha256": "e4423a1c652fce5abc02ad2df709fba77463dadcf5eb44800dd7e5c5a2599d28",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0248",
+      "title": "Quando penso em desistir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0248.mp3",
+      "durationSeconds": 175.48,
+      "bytes": 4212909,
+      "sha256": "d42e707f807242c389d849085df59320532e16ebe08e38eb8febd6afd6b68f6b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0249",
+      "title": "Que nem o seu Madruga",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0249.mp3",
+      "durationSeconds": 133.0,
+      "bytes": 3193389,
+      "sha256": "247db2227da1bbf17e002e3da79a409c5441190b5b0bc08387d303ed99d52852",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0250",
+      "title": "Quebrado em sua ilha",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0250.mp3",
+      "durationSeconds": 397.72,
+      "bytes": 9520427,
+      "sha256": "81e89a556da4b163ad1f96f814bf18448f7ede46600dbb3adc7bf4b8c59afa58",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0251",
+      "title": "Quebre as  correntes",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0251.mp3",
+      "durationSeconds": 148.76,
+      "bytes": 3571821,
+      "sha256": "c20a05b2a86fbac6dddd4e9fb8a93fa73ba9aa350d3347c146d44ed7827a351c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0252",
+      "title": "Quem sabe um dia",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0252.mp3",
+      "durationSeconds": 170.0,
+      "bytes": 4068669,
+      "sha256": "22c8133d265eaf92c4665c657222806e74f6321803a651b1304d37227987fc6c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0253",
+      "title": "Quero sorrir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0253.mp3",
+      "durationSeconds": 117.32,
+      "bytes": 2817261,
+      "sha256": "6c434c611372b10c270e524bbe66ef805a429765d0ebd5b86f80fa8ff6ddf25d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0254",
+      "title": "Querubim",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0254.mp3",
+      "durationSeconds": 131.11,
+      "bytes": 3148522,
+      "sha256": "8501e7a69480470b80dc40646544acfb37eba9c112458a5b9036698fc7ab7b62",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0255",
+      "title": "Reflita",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0255.mp3",
+      "durationSeconds": 159.48,
+      "bytes": 3828717,
+      "sha256": "0a845fffdc3405e740e49cbb1832ebd232445072140577cdc8974fab840ec05d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0256",
+      "title": "Retornara",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0256.mp3",
+      "durationSeconds": 216.16,
+      "bytes": 5155332,
+      "sha256": "143756254e30f6da0e3d7c94f69445d32f7387fcaf330f33c18409b2a0849255",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0257",
+      "title": "Rock_nes",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0257.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5849364,
+      "sha256": "cc606db6f805c9b810a1245d25ee33fc0c2dd7399bd4a141d2506e633184b27e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0258",
+      "title": "Rumo as Montanhas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0258.mp3",
+      "durationSeconds": 199.32,
+      "bytes": 4425165,
+      "sha256": "27d64a04fc3f4d35e3d5b421900ee9a8aec37e850a551fc7862db71552ccf357",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0259",
+      "title": "Sacrifício",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0259.mp3",
+      "durationSeconds": 118.4,
+      "bytes": 2843181,
+      "sha256": "9280208bd7531f25b60d3cec5868272ca15cc73fd75c99e907a89cca218e5fb1",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0260",
+      "title": "Sapata",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0260.mp3",
+      "durationSeconds": 229.9,
+      "bytes": 6414618,
+      "sha256": "205dd4af1f38d12b1289c2b1a2637ef375e93198f5fe3856ee54bfd90aa5215e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0261",
+      "title": "Saudade de Você",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0261.mp3",
+      "durationSeconds": 159.64,
+      "bytes": 3864532,
+      "sha256": "f57bbe223c7c63210c9d7798e3d904f23846a4161ea5264eaf267e88ceb63b11",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0262",
+      "title": "Se isso é viver",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0262.mp3",
+      "durationSeconds": 269.04,
+      "bytes": 6432111,
+      "sha256": "363f91de2907591d2c75f101b44de8e55fdce257a0f2febe6c439cde04c9f9b2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0263",
+      "title": "Se não vencemos nos rendemos",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0263.mp3",
+      "durationSeconds": 247.44,
+      "bytes": 5540772,
+      "sha256": "4edcc32af32c65c550daf800766217632d9b57e4f572b08cbb6a81c4fe63cfcf",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0264",
+      "title": "Seguindo em Frente",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0264.mp3",
+      "durationSeconds": 149.24,
+      "bytes": 3583341,
+      "sha256": "7df652cfd778120a3bd165a6b263c69ec5a719630ee2f8b29d4f9b7c5def587d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0265",
+      "title": "Segura em minha mão",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0265.mp3",
+      "durationSeconds": 189.0,
+      "bytes": 4537197,
+      "sha256": "53a464247cf5a460186b82d780b438a993d915c40a135424f3826621d0acb89a",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0266",
+      "title": "Sei lá",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0266.mp3",
+      "durationSeconds": 479.36,
+      "bytes": 8968662,
+      "sha256": "12941d16429e0ccf313df70a2b306999931da18c45d46b30816e5c5804dfa858",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0267",
+      "title": "Sem Problemas",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0267.mp3",
+      "durationSeconds": 206.72,
+      "bytes": 4962861,
+      "sha256": "ea73ecc1fdb65fd75040a196a844f6a817977e94a7036feb8b9280804eb9897b",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0268",
+      "title": "Sentir-se",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0268.mp3",
+      "durationSeconds": 376.48,
+      "bytes": 8691689,
+      "sha256": "49a3ca84aab55e5ccb0176a3323f636ab19c07896d4dae7002eca01d6f675407",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0269",
+      "title": "Sentir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0269.mp3",
+      "durationSeconds": 212.44,
+      "bytes": 4339432,
+      "sha256": "3f803a16eb68c12dab7a94f29ab8ac53ccfa13986b7e4de49101f9f77f65a4ca",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0270",
+      "title": "Servo aflito",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0270.mp3",
+      "durationSeconds": 148.64,
+      "bytes": 3362280,
+      "sha256": "ac41a4398e40d3b6ded5f4bf3bd08cc7b53d6816321824c170a703c0f1d6d0a6",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0271",
+      "title": "Shadow",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0271.mp3",
+      "durationSeconds": 154.26,
+      "bytes": 6172929,
+      "sha256": "4a92ee6c4813a81f74689470c6291970d54e202b6c73a6fbace9638ff8485026",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0272",
+      "title": "Sky",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0272.mp3",
+      "durationSeconds": 186.12,
+      "bytes": 4060654,
+      "sha256": "3c905a395351a727f60e8999425f8f2127bbec161c4296d01f41874e692d0223",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0273",
+      "title": "Sonata da noite",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0273.mp3",
+      "durationSeconds": 291.76,
+      "bytes": 6592557,
+      "sha256": "75d01506258892c63253e0888647d4dbd28a6426a102cec993a69caf78293ff5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0274",
+      "title": "Sonata da noite",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0274.mp3",
+      "durationSeconds": 291.76,
+      "bytes": 6603433,
+      "sha256": "fbb73435fb0c26e70bfe24a90297f47a17d3708c042b1a81cfae9f0dccb1b8ea",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0275",
+      "title": "Sonho abandonado",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0275.mp3",
+      "durationSeconds": 144.0,
+      "bytes": 3284736,
+      "sha256": "d817e141dc1c88aa4a407d0e8ab28d324978ac0ce0349710db5ccb726123a744",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0276",
+      "title": "Sonho",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0276.mp3",
+      "durationSeconds": 244.76,
+      "bytes": 5816516,
+      "sha256": "29fcdd7cb6b1db076565cd484004ba06970631b4dceac88980339b3036373b44",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0277",
+      "title": "Sorrir_",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0277.mp3",
+      "durationSeconds": 179.92,
+      "bytes": 4319469,
+      "sha256": "ed0e7190b779a485b1a0c8eacead783ff9af1483348620a30e04e6065798e6f2",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0278",
+      "title": "Sozinho",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0278.mp3",
+      "durationSeconds": 274.2,
+      "bytes": 6605741,
+      "sha256": "2ebf2353af400d6b7db5b3bf342bbfb351bcca9b2d950873893b0ccb53ac2744",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0279",
+      "title": "Subterrâneo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0279.mp3",
+      "durationSeconds": 302.0,
+      "bytes": 6794811,
+      "sha256": "10a028725452ebb97410fc1351a1504b785db933c17d76bced13b58e82606b56",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0280",
+      "title": "Suficientemente",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0280.mp3",
+      "durationSeconds": 128.36,
+      "bytes": 3082221,
+      "sha256": "b24b987c7d1be3776fe7e8bb57199b6ba991fe9ee779f27ffc0be7e043155573",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0281",
+      "title": "Sussurros",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0281.mp3",
+      "durationSeconds": 130.71,
+      "bytes": 5231188,
+      "sha256": "02235da3d56f6035c4e47a4cb536aaf4929fcf264bf44f8f0cffc023b0943bae",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0282",
+      "title": "Só me resta esperar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0282.mp3",
+      "durationSeconds": 162.88,
+      "bytes": 3910509,
+      "sha256": "5e93fa9ad3007e9436e4b0a6f162a455a529eefb4efaedd2e955fa9240b014fb",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0283",
+      "title": "Só pra Sentir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0283.mp3",
+      "durationSeconds": 224.96,
+      "bytes": 4714388,
+      "sha256": "b8c1b3d8a760c8ac63b6e8b5b7802fd84c01cfa43796876604a37aac6c7a79a0",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0284",
+      "title": "Só queria acertar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0284.mp3",
+      "durationSeconds": 176.56,
+      "bytes": 3840913,
+      "sha256": "336744f2e35f08cccd277126fc7f1e7ffb68869e71d84b30e5c04dd13940214d",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0285",
+      "title": "TINHÂMO",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0285.mp3",
+      "durationSeconds": 240.0,
+      "bytes": 5761197,
+      "sha256": "6ea861eba296884b59562a5925d57eafa430416789c9d8ac418f7c21e1a7c559",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0286",
+      "title": "TITLE_ Nunca Será Você",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0286.mp3",
+      "durationSeconds": 244.96,
+      "bytes": 5593915,
+      "sha256": "263eef08a4a999d4e571ad56df0165ffc2a6b6786b835b4bdfb1171f53126374",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0287",
+      "title": "Talvez dê pra Voar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0287.mp3",
+      "durationSeconds": 242.72,
+      "bytes": 5739172,
+      "sha256": "3296378d4f7a5e28fb1f154e483491ba88147476ba71a7ed643877ce03c080b9",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0288",
+      "title": "Te amo Deus",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0288.mp3",
+      "durationSeconds": 390.48,
+      "bytes": 9059223,
+      "sha256": "9b23182b9900ea5220d4dcbf56f4ec6c29e05ac34585b4d8c2f7968dee03db35",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0289",
+      "title": "Te vejo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0289.mp3",
+      "durationSeconds": 166.8,
+      "bytes": 4004397,
+      "sha256": "f982a8d57b0a7acc5fee269f4ea9f80e68b3a6a7df78c7a02501a3c4fda9fcd5",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0290",
+      "title": "Tem gente que ensina a gente....",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0290.mp3",
+      "durationSeconds": 200.0,
+      "bytes": 4801581,
+      "sha256": "4bf0ce9ac99d082abe12437e03c04c2aa6bbeb1830741f00d6d78b876d6138ef",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0291",
+      "title": "Tem muitas coisas , pra falar",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0291.mp3",
+      "durationSeconds": 101.84,
+      "bytes": 2329403,
+      "sha256": "f3342b5708fdb78c372db28f814544770c613186a0857b1a45a510721a1a493e",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0292",
+      "title": "Tempo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0292.mp3",
+      "durationSeconds": 131.83,
+      "bytes": 2109312,
+      "sha256": "5bbcb92672681eecb7048a30d81d241d32dc0c702e0f7bf978b37d20d6660804",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0293",
+      "title": "Tempos como esse",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0293.mp3",
+      "durationSeconds": 203.32,
+      "bytes": 4861890,
+      "sha256": "6309e3c40c8e4a3d13f1a9ebfec43d18c915c24ac8c29fe40b82897c1a3c9546",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0294",
+      "title": "Tentar Sentir",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0294.mp3",
+      "durationSeconds": 339.96,
+      "bytes": 8053914,
+      "sha256": "e96ae9557bfc6f47ad43c513d89506b7089b3f6a6bd9e10bc32e42a13fc79e2c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0295",
+      "title": "Tente",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0295.mp3",
+      "durationSeconds": 200.6,
+      "bytes": 4674621,
+      "sha256": "3e2d46673d87bf6c4fbe1313db034b1d00c69c0b340f7b6046a873e67e092185",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0296",
+      "title": "Tento",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0296.mp3",
+      "durationSeconds": 269.76,
+      "bytes": 6328768,
+      "sha256": "b2041e1ec8c21a74f22dcd9a1e794159032f1ed5165b0f8a75874dc176a732c1",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0297",
+      "title": "Tropa de Choque  (Remastered)",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0297.mp3",
+      "durationSeconds": 186.76,
+      "bytes": 4504338,
+      "sha256": "f3e4b90718561452d0581090704796bdfb4c44f16ec9f9c95a46faf915ba8868",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0298",
+      "title": "Tropa de Choque",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0298.mp3",
+      "durationSeconds": 186.79,
+      "bytes": 2988672,
+      "sha256": "b26b9182afe33504306ea9d9be51d489c0d73cbca281c497250a73edf8d69c93",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0299",
+      "title": "Título_ Herói de Mim Mesmo",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0299.mp3",
+      "durationSeconds": 243.4,
+      "bytes": 5573452,
+      "sha256": "87d722b8f19840d7a4815845552221795878ba11db18fdd22bc61cbd4da2e551",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0300",
+      "title": "Título_ Herói",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0300.mp3",
+      "durationSeconds": 183.72,
+      "bytes": 3881720,
+      "sha256": "0876752391f6cc38e36c8c40d9bf0a55c9b7451522152779eba46b2d7f9ca94c",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0301",
+      "title": "UM ANO ATRÁS",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0301.mp3",
+      "durationSeconds": 162.64,
+      "bytes": 3797709,
+      "sha256": "0e1a52e9e44e476d24433f2e28dd52a7fdf2ecb0d8b626ac1e0306e3285790f8",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0302",
+      "title": "Um Homem simples",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0302.mp3",
+      "durationSeconds": 254.68,
+      "bytes": 5691172,
+      "sha256": "36c0671b04f338471450b79c1bb303be6a564e48f44dd4b51e3d496475f51065",
+      "format": "mp3"
+    },
+    {
+      "id": "track-0303",
+      "title": "Um estranho dentro de casa",
+      "url": "https://github.com/kinhohc-sudo/gbd-word/releases/download/sound-tablet-20261013/track-0303.mp3",
+      "durationSeconds": 479.36,
+      "bytes": 9812869,
+      "sha256": "2d29ac381443a7a39ad6a10b78fe667d12025d64f3cea536c11db7ca1928a728",
+      "format": "mp3"
+    }
+  ]
+}
